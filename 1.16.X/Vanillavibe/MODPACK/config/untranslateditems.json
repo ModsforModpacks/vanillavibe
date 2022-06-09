@@ -1,0 +1,8 @@
+{
+  "debugLog": false,
+  "dispBothLanguagesOnTooltip": true,
+  "dispBothLanguagesOnWaila": true,
+  "replaceItemNames": true,
+  "additionalLanguage": "en_us",
+  "forceAddLangOn2ndLine": true
+}

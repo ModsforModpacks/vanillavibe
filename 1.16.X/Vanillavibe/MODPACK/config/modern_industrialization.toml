@@ -1,0 +1,5 @@
+generateOres = true
+blacklistedOres = ["bauxite", "copper", "lead", "nickel", "salt", "silver", "tin"]
+spawnWithGuideBook = false
+respawnWithGuideBook = false
+disableFuelTooltips = true

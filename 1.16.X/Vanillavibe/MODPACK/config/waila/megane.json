@@ -1,0 +1,107 @@
+{
+  "configVersion": 2,
+  "modules": {
+    "megane-kibe": {
+      "badasintended.megane.impl.Kibe": true
+    },
+    "megane-team-reborn-energy": {
+      "badasintended.megane.impl.TeamRebornEnergy": true
+    },
+    "megane-industrial-revolution": {
+      "badasintended.megane.impl.IndustrialRevolution": true
+    },
+    "megane-tech-reborn": {
+      "badasintended.megane.impl.TechReborn": true
+    },
+    "megane-fabric-furnaces": {
+      "badasintended.megane.impl.FabricFurnaces": true
+    },
+    "megane-modern-industrialization-4": {
+      "badasintended.megane.impl.ModernIndustrialization": true
+    },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
+    },
+    "megane-applied-energistics-2": {
+      "badasintended.megane.impl.AppliedEnergistics2": true
+    },
+    "megane-fast-transfer-lib": {
+      "badasintended.megane.impl.FastTransferLib": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  },
+  "inventory": {
+    "enabled": true,
+    "itemCount": true,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "entityInventory": {
+    "enabled": true,
+    "itemCount": true,
+    "nbt": false,
+    "maxWidth": 9,
+    "maxHeight": 3,
+    "blacklist": []
+  },
+  "energy": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane": 7408640,
+      "techreborn": 8390656,
+      "appliedenergistics2": 6556063,
+      "workspace": 7408640,
+      "modern_industrialization": 11993088,
+      "indrev": 3885790,
+      "agape_space": 7408640
+    },
+    "units": {
+      "megane": "E",
+      "techreborn": "E",
+      "appliedenergistics2": "AE",
+      "workspace": "E",
+      "modern_industrialization": "EU",
+      "indrev": "LF",
+      "agape_space": "E"
+    },
+    "blacklist": [
+      "appliedenergistics2:energy_acceptor"
+    ]
+  },
+  "fluid": {
+    "enabled": true,
+    "expandWhenSneak": false,
+    "colors": {
+      "megane:default": 855385
+    },
+    "blacklist": []
+  },
+  "progress": {
+    "enabled": true,
+    "showWhenZero": false,
+    "blacklist": [
+      "minecraft:furnace",
+      "minecraft:blast_furnace"
+    ]
+  },
+  "petOwner": {
+    "enabled": true,
+    "offline": true,
+    "blacklist": []
+  },
+  "effect": {
+    "enabled": true,
+    "level": true,
+    "roman": false,
+    "hidden": false,
+    "blacklist": []
+  },
+  "catchServerErrors": true,
+  "spawnEgg": true,
+  "playerHead": true
+}

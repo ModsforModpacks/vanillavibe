@@ -1,0 +1,28 @@
+{
+  "miscellaneousModule": {
+    "tanksChangeLights": true,
+    "cursedDirtMobCap": 25,
+    "cursedDirtBlacklist": [
+		"aqupd:grizzly_bear",
+		"artifacts:mimic",
+		"mythicmounts:courierbird",
+		"mythicmounts:direwolf",
+		"mythicmounts:dragon",
+		"mythicmounts:geckotoalizard",
+		"mythicmounts:griffon",
+		"mythicmounts:moth",
+		"mythicmounts:netherbat",
+		"mythicmounts:nightmare",
+		"mythicmounts:nudibranch",
+		"mythicmounts:ridinglizard",
+        "aqupd:caracal",
+        "untitledduckmod:duck",
+        "untitledduckmod:goose"
+		]
+  },
+  "chunkLoaderModule": {
+    "checkForPlayer": false,
+    "maxPerPlayer": -1,
+    "maxOfflineTime": -1
+  }
+}

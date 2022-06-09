@@ -1,0 +1,100 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 14,
+            "buy": "minecraft:chicken",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 7,
+            "buy": "minecraft:porkchop",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 4,
+            "buy": "minecraft:rabbit",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:rabbit_stew",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 15,
+            "buy": "minecraft:coal",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:cooked_porkchop",
+            "count": 5,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:cooked_chicken",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 5,
+            "price": 1,
+            "multiplier": 0,
+            "sell": "architects_palette:entrails",
+            "count": 5,
+            "type": "SellItem",
+            "experience": 4
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 7,
+            "buy": "minecraft:mutton",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 16,
+            "price": 10,
+            "buy": "minecraft:beef",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        }
+    ],
+    [{
+        "max_uses": 12,
+        "price": 10,
+        "buy": "minecraft:dried_kelp_block",
+        "type": "BuyForOneEmerald",
+        "experience": 30
+    }],
+    [{
+        "max_uses": 12,
+        "price": 10,
+        "buy": "minecraft:sweet_berries",
+        "type": "BuyForOneEmerald",
+        "experience": 30
+    }]
+]

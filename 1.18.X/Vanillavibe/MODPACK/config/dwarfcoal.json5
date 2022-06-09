@@ -1,0 +1,6 @@
+{
+	// Dwarf Coal BurnTime
+	"dwarfCoalBurnTime": 150,
+	// Charcoal Block BurnTime
+	"charcoalBlockBurnTime": 1600
+}

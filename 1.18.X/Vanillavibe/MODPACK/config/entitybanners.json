@@ -1,0 +1,9 @@
+{
+  "bannerRadius": 32,
+  "necessaryKills": 250,
+  "damageMultiplier": 3.5,
+  "defenseMultiplier": 2.50,
+  "shouldBroadcastWhenGivenBanner": true,
+  "shouldBroadcastToEveryone": true,
+  "blacklistedEntities": []
+}

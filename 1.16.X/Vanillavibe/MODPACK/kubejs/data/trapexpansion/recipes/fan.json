@@ -1,0 +1,26 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"#O#",
+		"OiO",
+		"ROR"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:cobblestone"
+		},
+		"O": {
+			"tag": "minecraft:planks"
+		},
+		"i": {
+			"tag": "pigsteel:irons"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "trapexpansion:fan",
+		"count": 1
+	}
+}

@@ -1,0 +1,159 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 20,
+            "buy": "minecraft:wheat",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 26,
+            "buy": "minecraft:potato",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 22,
+            "buy": "minecraft:carrot",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 15,
+            "buy": "minecraft:beetroot",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:bread",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 6,
+            "buy": "minecraft:pumpkin",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:pumpkin_pie",
+            "count": 4,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:apple",
+            "count": 4,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 3,
+            "multiplier": 0.05,
+            "sell": "minecraft:cookie",
+            "count": 18,
+            "type": "SellItem",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 4,
+            "buy": "minecraft:melon",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:cake",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 15
+        },
+        {
+            "duration": 100,
+            "multiplier": 0.05,
+            "effect": "minecraft:night_vision",
+            "type": "SellSuspiciousStew",
+            "experience": 15
+        },
+        {
+            "duration": 160,
+            "multiplier": 0.05,
+            "effect": "minecraft:jump_boost",
+            "type": "SellSuspiciousStew",
+            "experience": 15
+        },
+        {
+            "duration": 140,
+            "multiplier": 0.05,
+            "effect": "minecraft:weakness",
+            "type": "SellSuspiciousStew",
+            "experience": 15
+        },
+        {
+            "duration": 120,
+            "multiplier": 0.05,
+            "effect": "minecraft:blindness",
+            "type": "SellSuspiciousStew",
+            "experience": 15
+        },
+        {
+            "duration": 280,
+            "multiplier": 0.05,
+            "effect": "minecraft:poison",
+            "type": "SellSuspiciousStew",
+            "experience": 15
+        },
+        {
+            "duration": 7,
+            "multiplier": 0.05,
+            "effect": "minecraft:saturation",
+            "type": "SellSuspiciousStew",
+            "experience": 15
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 3,
+            "multiplier": 0.05,
+            "sell": "minecraft:golden_carrot",
+            "count": 3,
+            "type": "SellItem",
+            "experience": 30
+        },
+        {
+            "max_uses": 12,
+            "price": 4,
+            "multiplier": 0.05,
+            "sell": "minecraft:glistering_melon_slice",
+            "count": 3,
+            "type": "SellItem",
+            "experience": 30
+        }
+    ]
+]

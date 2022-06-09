@@ -1,0 +1,22 @@
+{ 
+	// The message to send a player when they first join the server.
+	"firstJoinPersonalMessage": [ 
+		"Welcome to §lVanillavibe!§r Press §e§lH§r, to open Quest book."
+	],
+	// The message to send to all players when a player first joins the server.
+	"firstJoinBroadcastMessage": [ 
+		"Welcome to §lVanillavibe!§r Press §e§lH§r, to open Quest book."
+	],
+	// The message to send a player when they re-join the server (not a new player).
+	"returningJoinPersonalMessage": [ 
+		"Welcome back!"
+	],
+	// The message to send to all players when a player re-joins the server (not a new player).
+	"returningJoinBroadcastMessage": [ 
+		""
+	],
+	// Whether the first join broadcast should also be sent to the player who joined.
+	"sendFirstJoinBroadcastToTargetPlayer": true,
+	// Whether the returning join broadcast should also be sent to the player who joined.
+	"sendReturningJoinBroadcastToTargetPlayer": false
+}

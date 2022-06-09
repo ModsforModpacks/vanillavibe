@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 24,
+            "buy": "minecraft:paper",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "type": "EnchantBook",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 9,
+            "multiplier": 0.05,
+            "sell": "minecraft:bookshelf",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 4,
+            "buy": "minecraft:book",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "type": "EnchantBook",
+            "experience": 5
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:lantern",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 5,
+            "buy": "minecraft:ink_sac",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "type": "EnchantBook",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:glass",
+            "count": 4,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 2,
+            "buy": "minecraft:writable_book",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "type": "EnchantBook",
+            "experience": 15
+        },
+        {
+            "max_uses": 12,
+            "price": 5,
+            "multiplier": 0.05,
+            "sell": "minecraft:clock",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 15
+        },
+        {
+            "max_uses": 12,
+            "price": 4,
+            "multiplier": 0.05,
+            "sell": "minecraft:compass",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 15
+        }
+    ],
+    [{
+        "max_uses": 12,
+        "price": 20,
+        "multiplier": 0.05,
+        "sell": "minecraft:name_tag",
+        "count": 1,
+        "type": "SellItem",
+        "experience": 30
+    }]
+]

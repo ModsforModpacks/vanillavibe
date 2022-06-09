@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 6,
+            "buy": "minecraft:oak_sapling",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:oak_log",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 6,
+            "buy": "minecraft:birch_sapling",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:birch_log",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 6,
+            "buy": "minecraft:spruce_sapling",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:spruce_log",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 16,
+            "price": 6,
+            "buy": "minecraft:dark_oak_sapling",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:dark_oak_log",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 6,
+            "buy": "minecraft:acacia_sapling",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:acacia_log",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 10
+        },
+        {
+            "max_uses": 16,
+            "price": 6,
+            "buy": "minecraft:jungle_sapling",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:jungle_log",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:warped_stem",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 15
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:crimson_stem",
+            "count": 6,
+            "type": "SellItem",
+            "experience": 15
+        }
+    ],
+    [
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_axe",
+            "basePrice": 12
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_hoe",
+            "basePrice": 12
+        }
+    ]
+]

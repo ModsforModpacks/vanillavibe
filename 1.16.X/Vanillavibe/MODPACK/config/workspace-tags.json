@@ -1,0 +1,21 @@
+{
+  "Instructions": "This file is a simple list of key-value pairs. The key being the tag and the value being the item that recipes using that tag should output. This file will automatically populate with any tags used by this system during recipe loading. If there is no entry for a tag, or the output item is \"null\", an entry will attempt to be added for one of the items in that tag. There should be no need to add an entry manually. Once you load into a world, all applicable entries should be generated. You can then change the item ids to the ones you want to use.",
+  "c:tungsten_ingots": "modern_industrialization:tungsten_ingot",
+  "c:electrum_ingots": "modern_industrialization:electrum_ingot",
+  "c:titanium_ingots": "modern_industrialization:titanium_ingot",
+  "c:nickel_ingots": "modern_industrialization:nickel_ingot",
+  "c:chrome_ingots": "modern_industrialization:chrome_ingot",
+  "c:sulfur_dusts": "indrev:sulfur_dust",
+  "c:steel_ingots": "modern_industrialization:steel_ingot",
+  "c:zinc_ingots": "techreborn:zinc_ingot",
+  "c:silver_ingots": "modern_industrialization:silver_ingot",
+  "c:invar_ingots": "modern_industrialization:invar_ingot",
+  "c:brass_ingots": "techreborn:brass_ingot",
+  "c:copper_ingots": "modern_industrialization:copper_ingot",
+  "c:aluminum_ingots": "modern_industrialization:aluminum_ingot",
+  "c:platinum_ingots": "modern_industrialization:platinum_ingot",
+  "c:iridium_ingots": "modern_industrialization:iridium_ingot",
+  "c:lead_ingots": "modern_industrialization:lead_ingot",
+  "c:bronze_ingots": "modern_industrialization:bronze_ingot",
+  "c:tin_ingots": "modern_industrialization:tin_ingot"
+}

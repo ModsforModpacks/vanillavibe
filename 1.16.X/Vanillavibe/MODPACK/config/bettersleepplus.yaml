@@ -1,0 +1,12 @@
+!!net.alphasucks.bettersleepplus.config.BSPConfig {
+  curveAggression: 0.5,
+  curveCutoffStart: 0.0,
+  curveCutoffStop: 1.0,
+  curveMaxSpeed: 59,
+  curveStart: 0.0,
+  curveStop: 1.0,
+  infoText: '§fPlayers sleeping §7[<sleepingcolor><playerssleeping>/<players>§7]',
+  progressLightningText: '§eThunder Progress [§b<countdown>§e]',
+  progressNightText: '§eNight Progress [§b<countdown>§e]',
+  showProgressbar: true
+}

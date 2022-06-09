@@ -1,0 +1,15 @@
+{
+  "mixin": {
+    "modern_industrialization.EnergyComponentHolder": true,
+    "modern_industrialization.CrafterComponentHolder$Inventory": true,
+    "appliedenergistics2.MTileWailaDataProvider": true,
+    "modern_industrialization.ATankBlockEntity": true,
+    "minecraft.AHorseBaseEntity": true,
+    "modern_industrialization.EnergyInputsComponentHolder": true,
+    "fabric_furnaces.ABaseFurnaceEntity": true,
+    "modern_industrialization.MultiblockInventoryComponentHolder": true,
+    "modern_industrialization.CrafterComponentHolder": true,
+    "modern_industrialization.ACraftingFluid": true,
+    "modern_industrialization.EnergyOutputsComponentHolder": true
+  }
+}

@@ -1,0 +1,95 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 24,
+            "buy": "minecraft:end_stone",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 16,
+            "price": 4,
+            "multiplier": 0.05,
+            "sell": "minecraft:end_rod",
+            "count": 3,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 20,
+            "buy": "minecraft:popped_chorus_fruit",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 16,
+            "price": 5,
+            "multiplier": 0.05,
+            "sell": "minecraft:phantom_membrane",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 14,
+            "buy": "minecraft:ender_pearl",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 16,
+            "price": 3,
+            "multiplier": 0.05,
+            "sell": "minecraft:firework_rocket",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 6,
+            "multiplier": 0.05,
+            "sell": "minecraft:dragon_breath",
+            "count": 2,
+            "type": "SellItem",
+            "experience": 15
+        },
+        {
+            "max_uses": 12,
+            "price": 14,
+            "iconType": "BANNER_PURPLE",
+            "type": "SellMap",
+            "experience": 15,
+            "structure": "minecraft:endcity"
+        }
+    ],
+    [
+        {
+            "max_uses": 8,
+            "price": 12,
+            "multiplier": 0.05,
+            "sell": "minecraft:shulker_shell",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 30
+        },
+        {
+            "max_uses": 2,
+            "price": 20,
+            "multiplier": 0.05,
+            "sell": "minecraft:dragon_head",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 30
+        }
+    ]
+]

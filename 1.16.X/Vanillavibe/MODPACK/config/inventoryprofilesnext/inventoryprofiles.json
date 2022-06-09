@@ -1,0 +1,31 @@
+{
+    "ModSettings": {
+        "enable_profiles": false,
+        "sort_at_cursor": true,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "enable_profiles_announcement": false,
+        "enable_inventory_buttons": false,
+        "enable_inventory_editor_button": false
+    },
+    "AutoRefillSettings": {
+        "ignore_locked_slots": false,
+        "refill_armor": false,
+        "refill_before_tool_break": false
+    },
+    "EditProfiles": {
+        "quick_slot_1_profile": "1"
+    },
+    "Hotkeys": {
+        "move_all_items": {
+            "main": {
+                "keys": "SPACE"
+            }
+        }
+    },
+    "Tweaks": {
+        "swipe_move_crafting_result_slot": true
+    }
+}

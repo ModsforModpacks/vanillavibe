@@ -1,0 +1,11 @@
+generateOres = true
+blacklistedOres = []
+spawnWithGuideBook = false
+respawnWithGuideBook = false
+disableFuelTooltips = true
+disableItemTagTooltips = false
+newVersionMessage = false
+enableHatchPlacementOverlay = true
+colorWaterLava = true
+enableDebugCommands = false
+enableAe2Integration = true

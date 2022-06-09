@@ -1,0 +1,450 @@
+//╔════════════════════════════════════════╗
+//║            CREATED BY CSS              ║
+//╚════════════════════════════════════════╝
+//╔════════════════════════════════════════╗
+//║     GNU Free Documentation License     ║
+//╚════════════════════════════════════════╝
+onEvent('item.tooltip', (event) => {
+
+const recipes = [
+	{
+		items: [	
+			'adabraniummod:adamantium_axe',
+			'adabraniummod:adamantium_hoe',
+			'adabraniummod:adamantium_pickaxe',
+			'adabraniummod:adamantium_shovel',
+			'adabraniummod:nether_axe',
+			'adabraniummod:nether_hoe',
+			'adabraniummod:nether_pickaxe',
+			'adabraniummod:nether_shovel',
+			'adabraniummod:vibranium_axe',
+			'adabraniummod:vibranium_hoe',
+			'adabraniummod:vibranium_pickaxe',
+			'adabraniummod:vibranium_shovel',
+			'battletowers:key_axe',
+			'battletowers:key_hoe',
+			'battletowers:key_pickaxe',
+			'battletowers:key_shovel',
+			'betterend:aeternium_axe',	
+			'betterend:aeternium_hoe',
+			'betterend:aeternium_pickaxe',
+			'betterend:aeternium_shovel',
+			'betterend:terminite_axe',
+			'betterend:terminite_hoe',
+			'betterend:terminite_pickaxe',
+			'betterend:terminite_shovel',
+			'betterend:thallasium_axe',
+			'betterend:thallasium_hoe',
+			'betterend:thallasium_pickaxe',
+			'betterend:thallasium_shovel',
+			'byg:pendorite_axe',
+			'byg:pendorite_hoe',
+			'byg:pendorite_pickaxe',
+			'byg:pendorite_shovel',
+			'cdsam:bone_axe',
+			'cdsam:bone_hoe',
+			'cdsam:bone_pickaxe',
+			'cdsam:bone_shovel',
+			'cdsam:flint_axe',
+			'cdsam:flint_hoe',
+			'cdsam:flint_pickaxe',
+			'cdsam:flint_shovel',
+			'cdsam:netherrack_axe',
+			'cdsam:netherrack_hoe',
+			'cdsam:netherrack_pickaxe',
+			'cdsam:netherrack_shovel',
+			'cdsam:sandstone_axe',
+			'cdsam:sandstone_hoe',
+			'cdsam:sandstone_pickaxe',
+			'cdsam:sandstone_shovel',
+			'harvest_scythes:adb_adamantium_machete',
+			'harvest_scythes:adb_adamantium_scythe',
+			'harvest_scythes:adb_nether_machete',
+			'harvest_scythes:adb_nether_scythe',
+			'harvest_scythes:adb_vibranium_machete', 
+			'harvest_scythes:adb_vibranium_scythe',
+			'harvest_scythes:aeternium_machete',
+			'harvest_scythes:aeternium_scythe',
+			'harvest_scythes:bronze_machete',
+			'harvest_scythes:bronze_scythe',
+			'harvest_scythes:diamond_machete',
+			'harvest_scythes:diamond_scythe',
+			'harvest_scythes:golden_machete',
+			'harvest_scythes:golden_scythe',
+			'harvest_scythes:iron_machete',
+			'harvest_scythes:iron_scythe',
+			'harvest_scythes:netherite_machete',
+			'harvest_scythes:netherite_scythe',
+			'harvest_scythes:pendorite_machete',
+			'harvest_scythes:pendorite_scythe',
+			'harvest_scythes:peridot_machete',
+			'harvest_scythes:peridot_scythe',
+			'harvest_scythes:ruby_machete',
+			'harvest_scythes:ruby_scythe',
+			'harvest_scythes:sapphire_machete',
+			'harvest_scythes:sapphire_scythe',
+			'harvest_scythes:stone_machete',
+			'harvest_scythes:stone_scythe',
+			'harvest_scythes:terminite_machete',
+			'harvest_scythes:terminite_scythe',
+			'harvest_scythes:wooden_machete',
+			'harvest_scythes:wooden_scythe',
+			'mcdw:pick_diamond_pickaxe_var',
+			'mcdw:pick_hailing_pinnacle',
+			'mcdw:pick_howling_pick',
+			'mcdw:pick_mountaineer_pick',
+			'minecraft:diamond_axe',
+			'minecraft:diamond_hoe',
+			'minecraft:diamond_pickaxe',
+			'minecraft:diamond_shovel',
+			'minecraft:golden_axe',
+			'minecraft:golden_hoe',
+			'minecraft:golden_pickaxe',
+			'minecraft:golden_shovel',
+			'minecraft:iron_axe',
+			'minecraft:iron_hoe',
+			'minecraft:iron_pickaxe',
+			'minecraft:iron_shovel',
+			'minecraft:netherite_axe',
+			'minecraft:netherite_hoe',
+			'minecraft:netherite_pickaxe',
+			'minecraft:netherite_shovel',
+			'minecraft:stone_axe',
+			'minecraft:stone_hoe',
+			'minecraft:stone_pickaxe',
+			'minecraft:stone_shovel',
+			'minecraft:wooden_axe',
+			'minecraft:wooden_hoe',
+			'minecraft:wooden_pickaxe',
+			'minecraft:wooden_shovel',
+			'mysticalagriculture:imperium_axe',
+			'mysticalagriculture:imperium_hoe',
+			'mysticalagriculture:imperium_pickaxe',
+			'mysticalagriculture:imperium_shovel',
+			'mysticalagriculture:imperium_watering_can',
+			'mysticalagriculture:inferium_axe',
+			'mysticalagriculture:inferium_hoe',
+			'mysticalagriculture:inferium_pickaxe',
+			'mysticalagriculture:inferium_shovel',
+			'mysticalagriculture:inferium_watering_can',
+			'mysticalagriculture:prudentium_axe',
+			'mysticalagriculture:prudentium_hoe',
+			'mysticalagriculture:prudentium_pickaxe',
+			'mysticalagriculture:prudentium_shovel',
+			'mysticalagriculture:prudentium_watering_can',
+			'mysticalagriculture:supremium_axe',
+			'mysticalagriculture:supremium_hoe',
+			'mysticalagriculture:supremium_pickaxe',
+			'mysticalagriculture:supremium_shovel',
+			'mysticalagriculture:supremium_watering_can',
+			'mysticalagriculture:tertium_axe',
+			'mysticalagriculture:tertium_hoe',
+			'mysticalagriculture:tertium_pickaxe',
+			'mysticalagriculture:tertium_shovel',
+			'mysticalagriculture:tertium_watering_can',
+			'mysticalagriculture:watering_can',
+			'techreborn:bronze_axe',
+			'techreborn:bronze_hoe',
+			'techreborn:bronze_pickaxe',
+			'techreborn:bronze_spade',
+			'techreborn:peridot_axe',
+			'techreborn:peridot_hoe',
+			'techreborn:peridot_pickaxe',
+			'techreborn:peridot_spade',
+			'techreborn:ruby_axe',
+			'techreborn:ruby_hoe',
+			'techreborn:ruby_pickaxe',
+			'techreborn:ruby_spade',
+			'techreborn:sapphire_axe',
+			'techreborn:sapphire_hoe',
+			'techreborn:sapphire_pickaxe',
+			'techreborn:sapphire_spade'
+			],
+			text: [Text.of('Tools').gold()]
+	},
+	{
+		items: [
+			'staffofbuilding:diamond_builder_staff',
+			'staffofbuilding:golden_builder_staff',
+			'staffofbuilding:infinite_builder_staff',
+			'staffofbuilding:iron_builder_staff',
+			'staffofbuilding:netherite_builder_staff',
+			'staffofbuilding:stone_builder_staff',
+			'staffofbuilding:wooden_builder_staff'
+			],
+			text: [Text.of('Building Wands').gold()]
+	},
+	{
+		items: [
+			'adapaxels:adamantium_paxel',
+			'adapaxels:asterite_paxel',
+			'adapaxels:bronze_paxel',
+			'adapaxels:certus_quartz_paxel',
+			'adapaxels:copper_paxel',
+			'adapaxels:diamond_paxel',
+			'adapaxels:electrum_paxel',
+			'adapaxels:fools_gold_paxel',
+			'adapaxels:galaxium_paxel',
+			'adapaxels:golden_paxel',
+			'adapaxels:iron_paxel',
+			'adapaxels:lead_paxel',
+			'adapaxels:lunum_paxel',
+			'adapaxels:meteoric_steel_paxel',
+			'adapaxels:metite_paxel',
+			'adapaxels:nether_paxel',
+			'adapaxels:nether_quartz_paxel',
+			'adapaxels:netherite_paxel',
+			'adapaxels:pendorite_paxel',
+			'adapaxels:peridot_paxel',
+			'adapaxels:rose_gold_paxel',
+			'adapaxels:ruby_paxel',
+			'adapaxels:sapphire_paxel',
+			'adapaxels:silver_paxel',
+			'adapaxels:steel_paxel',
+			'adapaxels:stellum_paxel',
+			'adapaxels:sterling_silver_paxel',
+			'adapaxels:stone_paxel',
+			'adapaxels:tech_reborn_bronze_paxel',
+			'adapaxels:tin_paxel',
+			'adapaxels:univite_paxel',
+			'adapaxels:vibranium_paxel',
+			'adapaxels:wooden_paxel',
+			'vanillaexcavators:diamond_excavator',
+			'vanillaexcavators:emerald_excavator',
+			'vanillaexcavators:ender_excavator',
+			'vanillaexcavators:fiery_excavator',
+			'vanillaexcavators:golden_excavator',
+			'vanillaexcavators:iron_excavator',
+			'vanillaexcavators:lapis_excavator',
+			'vanillaexcavators:netherite_excavator',
+			'vanillaexcavators:obsidian_excavator',
+			'vanillaexcavators:prismarine_excavator',
+			'vanillaexcavators:quartz_excavator',
+			'vanillaexcavators:slime_excavator',
+			'vanillaexcavators:stone_excavator',
+			'vanillaexcavators:wooden_excavator'
+			],
+			text: [Text.of('Multitools').gold()]
+			
+	},
+	{
+		items: [
+			'techreborn:advanced_chainsaw',
+			'techreborn:advanced_drill',
+			'techreborn:advanced_jackhammer',
+			'techreborn:basic_chainsaw',
+			'techreborn:basic_drill',
+			'techreborn:basic_jackhammer',
+			'techreborn:debug_tool',
+			'techreborn:destructopack',
+			'techreborn:electric_treetap',
+			'techreborn:industrial_chainsaw',
+			'techreborn:industrial_drill',
+			'techreborn:industrial_jackhammer',
+			'techreborn:nanosaber',
+			'techreborn:omni_tool',
+			'techreborn:painting_tool',
+			'techreborn:rock_cutter',
+			'techreborn:treetap',
+			'techreborn:wrench'
+			],
+			text: [Text.of('Tech Tools').gold()]
+	},
+	{
+		items: [
+			'vanilla-hammers:adamantium_hammer',
+			'vanilla-hammers:diamond_hammer',
+			'vanilla-hammers:emerald_hammer',
+			'vanilla-hammers:ender_hammer',
+			'vanilla-hammers:fiery_hammer',
+			'vanilla-hammers:golden_hammer',
+			'vanilla-hammers:iron_hammer',
+			'vanilla-hammers:lapis_hammer',
+			'vanilla-hammers:nether_hammer',
+			'vanilla-hammers:netherite_hammer',
+			'vanilla-hammers:obsidian_hammer',
+			'vanilla-hammers:prismarine_hammer',
+			'vanilla-hammers:quartz_hammer',
+			'vanilla-hammers:slime_hammer',
+			'vanilla-hammers:stone_hammer',
+			'vanilla-hammers:vibranium_hammer',
+			'vanilla-hammers:wooden_hammer'
+			],
+			text: [Text.of('Mining Hammers').gold()]			
+	},
+	];
+			recipes.forEach((recipe) => {
+			event.add(recipe.items, recipe.text);
+	});
+});
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Tools //
+
+tooltip.add(['adabraniummod:adamantium_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:adamantium_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:adamantium_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:adamantium_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:nether_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:nether_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:nether_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:nether_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:vibranium_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:vibranium_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:vibranium_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['adabraniummod:vibranium_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['battletowers:key_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['battletowers:key_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['battletowers:key_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['battletowers:key_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:aeternium_axe'],[Text.of('Tools').color('#FFAA00')])	
+tooltip.add(['betterend:aeternium_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:aeternium_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:aeternium_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:terminite_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:terminite_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:terminite_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:terminite_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:thallasium_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:thallasium_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:thallasium_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['betterend:thallasium_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['byg:pendorite_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['byg:pendorite_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['byg:pendorite_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['byg:pendorite_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:bone_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:bone_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:bone_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:bone_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:flint_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:flint_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:flint_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:flint_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:netherrack_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:netherrack_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:netherrack_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:netherrack_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:sandstone_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:sandstone_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:sandstone_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['cdsam:sandstone_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['dragonloot:dragon_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['dragonloot:dragon_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['dragonloot:dragon_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['dragonloot:dragon_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:adb_adamantium_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:adb_adamantium_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:adb_nether_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:adb_nether_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:adb_vibranium_machete'],[Text.of('Tools').color('#FFAA00')]) 
+tooltip.add(['harvest_scythes:adb_vibranium_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:aeternium_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:aeternium_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:diamond_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:dragon_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:dragon_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:golden_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:iron_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:netherite_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:pendorite_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:pendorite_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:stone_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:terminite_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:terminite_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:wooden_machete'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['mcdw:pick_diamond_pickaxe_var'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['mcdw:pick_hailing_pinnacle'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['mcdw:pick_howling_pick'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['mcdw:pick_mountaineer_pick'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:diamond_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:diamond_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:diamond_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:diamond_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:golden_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:golden_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:golden_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:golden_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:iron_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:iron_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:iron_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:iron_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:netherite_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:netherite_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:netherite_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:netherite_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:stone_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:stone_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:stone_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:stone_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:wooden_axe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:wooden_hoe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:wooden_pickaxe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['minecraft:wooden_shovel'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:diamond_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:golden_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:iron_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:netherite_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:stone_scythe'],[Text.of('Tools').color('#FFAA00')])
+tooltip.add(['harvest_scythes:wooden_scythe'],[Text.of('Tools').color('#FFAA00')])
+
+// Staff of Buildings //
+
+tooltip.add(['staffofbuilding:diamond_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+tooltip.add(['staffofbuilding:golden_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+tooltip.add(['staffofbuilding:infinite_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+tooltip.add(['staffofbuilding:iron_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+tooltip.add(['staffofbuilding:netherite_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+tooltip.add(['staffofbuilding:stone_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+tooltip.add(['staffofbuilding:wooden_builder_staff'],[Text.of('Building Wands').color('#FFAA00')])
+
+// Multitools //
+
+tooltip.add(['adapaxels:adamantium_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:diamond_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:golden_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:iron_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:nether_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:netherite_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:pendorite_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:stone_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:vibranium_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['adapaxels:wooden_paxel'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:diamond_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:emerald_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:ender_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:fiery_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:golden_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:iron_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:lapis_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:netherite_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:obsidian_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:prismarine_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:quartz_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:slime_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:stone_excavator'],[Text.of('Multitool').color('#FFAA00')])
+tooltip.add(['vanillaexcavators:wooden_excavator'],[Text.of('Multitool').color('#FFAA00')])
+
+// Hammers //
+
+tooltip.add(['vanilla-hammers:adamantium_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:diamond_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:emerald_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:ender_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:fiery_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:golden_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:iron_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:lapis_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:nether_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:netherite_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:obsidian_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:prismarine_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:quartz_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:slime_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:stone_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:vibranium_hammer'],[Text.of('Hammers').color('#FFAA00')])
+tooltip.add(['vanilla-hammers:wooden_hammer'],[Text.of('Hammers').color('#FFAA00')])
+
+})

@@ -1,0 +1,99 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 32,
+            "buy": "minecraft:rotten_flesh",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:redstone",
+            "count": 2,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 3,
+            "buy": "minecraft:gold_ingot",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:lapis_lazuli",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 2,
+            "buy": "minecraft:rabbit_foot",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 12,
+            "price": 4,
+            "multiplier": 0.05,
+            "sell": "minecraft:glowstone",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 4,
+            "buy": "minecraft:scute",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "max_uses": 12,
+            "price": 9,
+            "buy": "minecraft:glass_bottle",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "max_uses": 12,
+            "price": 5,
+            "multiplier": 0.05,
+            "sell": "minecraft:ender_pearl",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 15
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 22,
+            "buy": "minecraft:nether_wart",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "max_uses": 12,
+            "price": 3,
+            "multiplier": 0.05,
+            "sell": "minecraft:experience_bottle",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 30
+        }
+    ]
+]

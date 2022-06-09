@@ -1,0 +1,149 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 15,
+            "buy": "minecraft:coal",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.2,
+            "sell": "minecraft:stone_axe",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.2,
+            "sell": "minecraft:stone_shovel",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.2,
+            "sell": "minecraft:stone_pickaxe",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.2,
+            "sell": "minecraft:stone_hoe",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 4,
+            "buy": "minecraft:iron_ingot",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 36,
+            "multiplier": 0.2,
+            "sell": "minecraft:bell",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 6,
+            "price": 4,
+            "multiplier": 0.1,
+            "sell": "architects_palette:pipe",
+            "count": 12,
+            "type": "SellItem",
+            "experience": 4
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 30,
+            "buy": "minecraft:flint",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 10,
+            "tool": "minecraft:iron_axe",
+            "basePrice": 1
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 10,
+            "tool": "minecraft:iron_shovel",
+            "basePrice": 2
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 10,
+            "tool": "minecraft:iron_pickaxe",
+            "basePrice": 3
+        },
+        {
+            "max_uses": 3,
+            "price": 4,
+            "multiplier": 0.2,
+            "sell": "minecraft:diamond_hoe",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 1,
+            "buy": "minecraft:diamond",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_axe",
+            "basePrice": 12
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_shovel",
+            "basePrice": 5
+        }
+    ],
+    [{
+        "max_uses": 3,
+        "multiplier": 0.2,
+        "type": "SellEnchantedTool",
+        "experience": 30,
+        "tool": "minecraft:diamond_pickaxe",
+        "basePrice": 13
+    }]
+]

@@ -1,0 +1,220 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:dandelion",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:poppy",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:blue_orchid",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:allium",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:azure_bluet",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:red_tulip",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:orange_tulip",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:white_tulip",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:pink_tulip",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:oxeye_daisy",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:cornflower",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:lily_of_the_valley",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:sunflower",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:lilac",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:rose_bush",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 16,
+            "price": 1,
+            "multiplier": 0.05,
+            "sell": "minecraft:peony",
+            "count": 8,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 24,
+            "buy": "minecraft:lily_pad",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 16,
+            "price": 3,
+            "multiplier": 0.05,
+            "sell": "minecraft:honeycomb",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 30,
+            "buy": "minecraft:vine",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 16,
+            "price": 6,
+            "multiplier": 0.05,
+            "sell": "minecraft:honey_bottle",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 16,
+            "price": 3,
+            "buy": "minecraft:flower_pot",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "max_uses": 12,
+            "price": 13,
+            "iconType": "BANNER_GREEN",
+            "type": "SellMap",
+            "experience": 15,
+            "structure": "minecraft:swamp_hut"
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 6,
+            "multiplier": 0.05,
+            "sell": "minecraft:bee_nest",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 30
+        },
+        {
+            "max_uses": 12,
+            "price": 15,
+            "iconType": "BANNER_LIME",
+            "type": "SellMap",
+            "experience": 30,
+            "structure": "minecraft:jungle_pyramid"
+        }
+    ]
+]

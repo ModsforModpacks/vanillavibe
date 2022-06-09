@@ -1,0 +1,171 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 15,
+            "buy": "minecraft:coal",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 12,
+            "price": 7,
+            "multiplier": 0.2,
+            "sell": "minecraft:iron_leggings",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 4,
+            "multiplier": 0.2,
+            "sell": "minecraft:iron_boots",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 5,
+            "multiplier": 0.2,
+            "sell": "minecraft:iron_helmet",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 12,
+            "price": 9,
+            "multiplier": 0.2,
+            "sell": "minecraft:iron_chestplate",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 4,
+            "buy": "minecraft:iron_ingot",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 36,
+            "multiplier": 0.2,
+            "sell": "minecraft:bell",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.2,
+            "sell": "minecraft:chainmail_boots",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 12,
+            "price": 3,
+            "multiplier": 0.2,
+            "sell": "minecraft:chainmail_leggings",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        },
+        {
+            "max_uses": 6,
+            "price": 3,
+            "multiplier": 0.1,
+            "sell": "architects_palette:plating_block",
+            "count": 12,
+            "type": "SellItem",
+            "experience": 4
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 1,
+            "buy": "minecraft:lava_bucket",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "buy": "minecraft:diamond",
+            "type": "BuyForOneEmerald",
+            "experience": 20
+        },
+        {
+            "max_uses": 12,
+            "price": 1,
+            "multiplier": 0.2,
+            "sell": "minecraft:chainmail_helmet",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 4,
+            "multiplier": 0.2,
+            "sell": "minecraft:chainmail_chestplate",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 5,
+            "multiplier": 0.2,
+            "sell": "minecraft:shield",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 10
+        }
+    ],
+    [
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_leggings",
+            "basePrice": 14
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_boots",
+            "basePrice": 8
+        }
+    ],
+    [
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 30,
+            "tool": "minecraft:diamond_helmet",
+            "basePrice": 8
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 30,
+            "tool": "minecraft:diamond_chestplate",
+            "basePrice": 16
+        }
+    ]
+]

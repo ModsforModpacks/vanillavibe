@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "max_uses": 16,
+            "price": 15,
+            "buy": "minecraft:coal",
+            "type": "BuyForOneEmerald",
+            "experience": 2
+        },
+        {
+            "max_uses": 12,
+            "price": 3,
+            "multiplier": 0.2,
+            "sell": "minecraft:iron_axe",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 1
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.05,
+            "type": "SellEnchantedTool",
+            "experience": 1,
+            "tool": "minecraft:iron_sword",
+            "basePrice": 2
+        }
+    ],
+    [
+        {
+            "max_uses": 12,
+            "price": 4,
+            "buy": "minecraft:iron_ingot",
+            "type": "BuyForOneEmerald",
+            "experience": 10
+        },
+        {
+            "max_uses": 12,
+            "price": 36,
+            "multiplier": 0.2,
+            "sell": "minecraft:bell",
+            "count": 1,
+            "type": "SellItem",
+            "experience": 5
+        }
+    ],
+    [{
+        "max_uses": 12,
+        "price": 24,
+        "buy": "minecraft:flint",
+        "type": "BuyForOneEmerald",
+        "experience": 20
+    }],
+    [
+        {
+            "max_uses": 12,
+            "price": 1,
+            "buy": "minecraft:diamond",
+            "type": "BuyForOneEmerald",
+            "experience": 30
+        },
+        {
+            "max_uses": 3,
+            "multiplier": 0.2,
+            "type": "SellEnchantedTool",
+            "experience": 15,
+            "tool": "minecraft:diamond_axe",
+            "basePrice": 12
+        }
+    ],
+    [{
+        "max_uses": 3,
+        "multiplier": 0.2,
+        "type": "SellEnchantedTool",
+        "experience": 30,
+        "tool": "minecraft:diamond_sword",
+        "basePrice": 8
+    }]
+]

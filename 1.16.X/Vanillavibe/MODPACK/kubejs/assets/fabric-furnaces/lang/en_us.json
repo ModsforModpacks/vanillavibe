@@ -1,0 +1,10 @@
+{
+"block.fabric-furnaces:iron_furnace": "Pigsteel Furnace",
+"block.fabric-furnaces:crystal_iron_furnace": "Crystal Pigsteel Furnace",
+"block.fabric-furnaces.iron_furnace": "Pigsteel Furnace",
+"block.fabric-furnaces.crystal_iron_furnace": "Crystal Pigsteel Furnace",
+"fabric-furnaces.text.dupelabel": "§7Dupe chance: %d",
+"fabric-furnaces.text.speedlabel": "§7Speed increase: %dx",
+"fabric-furnaces.text.fuellabel": "§7Fuel usage: %dx",
+"fabric-furnaces.text.tooltiplabel": "§fDetails:"
+}
