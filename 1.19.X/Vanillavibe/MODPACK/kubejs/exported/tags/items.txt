@@ -1,0 +1,3487 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 15, 2022, 12:29:37 AM
+
+#c:iridium_ores
+- techreborn:iridium_ore (from Tech Reborn)
+- techreborn:deepslate_iridium_ore (from Tech Reborn)
+
+#c:nickel_blocks
+- techreborn:nickel_storage_block (from Tech Reborn)
+
+#techreborn:gems
+- techreborn:peridot_gem (from Tech Reborn)
+- techreborn:red_garnet_gem (from Tech Reborn)
+- techreborn:ruby_gem (from Tech Reborn)
+- techreborn:sapphire_gem (from Tech Reborn)
+- techreborn:yellow_garnet_gem (from Tech Reborn)
+
+#c:chromium_ingots
+- techreborn:chrome_ingot (from Tech Reborn)
+
+#techreborn:plates
+- techreborn:advanced_alloy_plate (from Tech Reborn)
+- techreborn:aluminum_plate (from Tech Reborn)
+- techreborn:brass_plate (from Tech Reborn)
+- techreborn:bronze_plate (from Tech Reborn)
+- techreborn:carbon_plate (from Tech Reborn)
+- techreborn:chrome_plate (from Tech Reborn)
+- techreborn:coal_plate (from Tech Reborn)
+- techreborn:copper_plate (from Tech Reborn)
+- techreborn:diamond_plate (from Tech Reborn)
+- techreborn:electrum_plate (from Tech Reborn)
+- techreborn:emerald_plate (from Tech Reborn)
+- techreborn:gold_plate (from Tech Reborn)
+- techreborn:invar_plate (from Tech Reborn)
+- techreborn:iridium_alloy_plate (from Tech Reborn)
+- techreborn:iridium_plate (from Tech Reborn)
+- techreborn:iron_plate (from Tech Reborn)
+- techreborn:lapis_plate (from Tech Reborn)
+- techreborn:lazurite_plate (from Tech Reborn)
+- techreborn:lead_plate (from Tech Reborn)
+- techreborn:magnalium_plate (from Tech Reborn)
+- techreborn:nickel_plate (from Tech Reborn)
+- techreborn:obsidian_plate (from Tech Reborn)
+- techreborn:peridot_plate (from Tech Reborn)
+- techreborn:platinum_plate (from Tech Reborn)
+- techreborn:quartz_plate (from Tech Reborn)
+- techreborn:red_garnet_plate (from Tech Reborn)
+- techreborn:redstone_plate (from Tech Reborn)
+- techreborn:refined_iron_plate (from Tech Reborn)
+- techreborn:ruby_plate (from Tech Reborn)
+- techreborn:sapphire_plate (from Tech Reborn)
+- techreborn:silicon_plate (from Tech Reborn)
+- techreborn:silver_plate (from Tech Reborn)
+- techreborn:steel_plate (from Tech Reborn)
+- techreborn:tin_plate (from Tech Reborn)
+- techreborn:titanium_plate (from Tech Reborn)
+- techreborn:tungsten_plate (from Tech Reborn)
+- techreborn:tungstensteel_plate (from Tech Reborn)
+- techreborn:wood_plate (from Tech Reborn)
+- techreborn:yellow_garnet_plate (from Tech Reborn)
+- techreborn:zinc_plate (from Tech Reborn)
+
+#c:bronze_dusts
+- techreborn:bronze_dust (from Tech Reborn)
+
+#c:tungstensteel_blocks
+- techreborn:tungstensteel_storage_block (from Tech Reborn)
+
+#c:coal_dusts
+- techreborn:coal_dust (from Tech Reborn)
+
+#c:sponges
+- minecraft:sponge (from Tech Reborn)
+- minecraft:wet_sponge (from Tech Reborn)
+
+#c:invar_ingots
+- techreborn:invar_ingot (from Tech Reborn)
+
+#fabric:pickaxes
+- techreborn:bronze_pickaxe (from Tech Reborn)
+- techreborn:ruby_pickaxe (from Tech Reborn)
+- techreborn:sapphire_pickaxe (from Tech Reborn)
+- techreborn:peridot_pickaxe (from Tech Reborn)
+- techreborn:basic_drill (from Tech Reborn)
+- techreborn:advanced_drill (from Tech Reborn)
+- techreborn:industrial_drill (from Tech Reborn)
+- techreborn:basic_jackhammer (from Tech Reborn)
+- techreborn:advanced_jackhammer (from Tech Reborn)
+- techreborn:industrial_jackhammer (from Tech Reborn)
+- techreborn:rock_cutter (from Tech Reborn)
+- techreborn:omni_tool (from Tech Reborn)
+
+#c:advanced_alloy_blocks
+- techreborn:advanced_alloy_storage_block (from Tech Reborn)
+
+#darkutils:tomes
+- darkutils:tome_enchanting (from DarkUtilities)
+- darkutils:tome_shadows (from DarkUtilities)
+- darkutils:tome_sga (from DarkUtilities)
+- darkutils:tome_illager (from DarkUtilities)
+- darkutils:tome_runelic (from DarkUtilities)
+- darkutils:tome_pigpen (from DarkUtilities)
+
+#c:diamond_ores
+- minecraft:diamond_ore (from Tech Reborn)
+- minecraft:deepslate_diamond_ore (from Tech Reborn)
+
+#techreborn:small_dusts
+- techreborn:almandine_small_dust (from Tech Reborn)
+- techreborn:andesite_small_dust (from Tech Reborn)
+- techreborn:andradite_small_dust (from Tech Reborn)
+- techreborn:ashes_small_dust (from Tech Reborn)
+- techreborn:basalt_small_dust (from Tech Reborn)
+- techreborn:bauxite_small_dust (from Tech Reborn)
+- techreborn:calcite_small_dust (from Tech Reborn)
+- techreborn:charcoal_small_dust (from Tech Reborn)
+- techreborn:chrome_small_dust (from Tech Reborn)
+- techreborn:cinnabar_small_dust (from Tech Reborn)
+- techreborn:clay_small_dust (from Tech Reborn)
+- techreborn:coal_small_dust (from Tech Reborn)
+- techreborn:dark_ashes_small_dust (from Tech Reborn)
+- techreborn:diamond_small_dust (from Tech Reborn)
+- techreborn:diorite_small_dust (from Tech Reborn)
+- techreborn:electrum_small_dust (from Tech Reborn)
+- techreborn:emerald_small_dust (from Tech Reborn)
+- techreborn:ender_eye_small_dust (from Tech Reborn)
+- techreborn:ender_pearl_small_dust (from Tech Reborn)
+- techreborn:endstone_small_dust (from Tech Reborn)
+- techreborn:flint_small_dust (from Tech Reborn)
+- techreborn:galena_small_dust (from Tech Reborn)
+- techreborn:glowstone_small_dust (from Tech Reborn)
+- techreborn:granite_small_dust (from Tech Reborn)
+- techreborn:grossular_small_dust (from Tech Reborn)
+- techreborn:invar_small_dust (from Tech Reborn)
+- techreborn:lazurite_small_dust (from Tech Reborn)
+- techreborn:magnesium_small_dust (from Tech Reborn)
+- techreborn:manganese_small_dust (from Tech Reborn)
+- techreborn:marble_small_dust (from Tech Reborn)
+- techreborn:netherrack_small_dust (from Tech Reborn)
+- techreborn:nickel_small_dust (from Tech Reborn)
+- techreborn:obsidian_small_dust (from Tech Reborn)
+- techreborn:olivine_small_dust (from Tech Reborn)
+- techreborn:peridot_small_dust (from Tech Reborn)
+- techreborn:phosphorous_small_dust (from Tech Reborn)
+- techreborn:platinum_small_dust (from Tech Reborn)
+- techreborn:pyrite_small_dust (from Tech Reborn)
+- techreborn:pyrope_small_dust (from Tech Reborn)
+- techreborn:quartz_small_dust (from Tech Reborn)
+- techreborn:redstone_small_dust (from Tech Reborn)
+- techreborn:red_garnet_small_dust (from Tech Reborn)
+- techreborn:ruby_small_dust (from Tech Reborn)
+- techreborn:saltpeter_small_dust (from Tech Reborn)
+- techreborn:sapphire_small_dust (from Tech Reborn)
+- techreborn:saw_small_dust (from Tech Reborn)
+- techreborn:sodalite_small_dust (from Tech Reborn)
+- techreborn:spessartine_small_dust (from Tech Reborn)
+- techreborn:sphalerite_small_dust (from Tech Reborn)
+- techreborn:steel_small_dust (from Tech Reborn)
+- techreborn:sulfur_small_dust (from Tech Reborn)
+- techreborn:titanium_small_dust (from Tech Reborn)
+- techreborn:tungsten_small_dust (from Tech Reborn)
+- techreborn:uvarovite_small_dust (from Tech Reborn)
+- techreborn:yellow_garnet_small_dust (from Tech Reborn)
+- techreborn:zinc_small_dust (from Tech Reborn)
+
+#c:coral_blocks
+- #c:living_coral_blocks (from Tech Reborn)
+- #c:dead_coral_blocks (from Tech Reborn)
+
+#c:cinnabar_small_dusts
+- techreborn:cinnabar_small_dust (from Tech Reborn)
+
+#c:coal_plates
+- techreborn:coal_plate (from Tech Reborn)
+
+#fabric:axes
+- techreborn:bronze_axe (from Tech Reborn)
+- techreborn:ruby_axe (from Tech Reborn)
+- techreborn:sapphire_axe (from Tech Reborn)
+- techreborn:peridot_axe (from Tech Reborn)
+- techreborn:basic_chainsaw (from Tech Reborn)
+- techreborn:advanced_chainsaw (from Tech Reborn)
+- techreborn:industrial_chainsaw (from Tech Reborn)
+- techreborn:omni_tool (from Tech Reborn)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#c:tin_ores
+- techreborn:tin_ore (from Tech Reborn)
+- techreborn:deepslate_tin_ore (from Tech Reborn)
+
+#c:dyes
+- #c:black_dyes? (from Fabric Convention Tags)
+- #c:blue_dyes? (from Fabric Convention Tags)
+- #c:brown_dyes? (from Fabric Convention Tags)
+- #c:green_dyes? (from Fabric Convention Tags)
+- #c:red_dyes? (from Fabric Convention Tags)
+- #c:white_dyes? (from Fabric Convention Tags)
+- #c:yellow_dyes? (from Fabric Convention Tags)
+- #c:light_gray_dyes? (from Fabric Convention Tags)
+- #c:light_blue_dyes? (from Fabric Convention Tags)
+- #c:lime_dyes? (from Fabric Convention Tags)
+- #c:magenta_dyes? (from Fabric Convention Tags)
+- #c:orange_dyes? (from Fabric Convention Tags)
+- #c:pink_dyes? (from Fabric Convention Tags)
+- #c:cyan_dyes? (from Fabric Convention Tags)
+- #c:gray_dyes? (from Fabric Convention Tags)
+- #c:purple_dyes? (from Fabric Convention Tags)
+
+#c:brown_dyes
+- minecraft:brown_dye (from Fabric Convention Tags)
+
+#c:steel_blocks
+- techreborn:steel_storage_block (from Tech Reborn)
+
+#c:nickel_small_dusts
+- techreborn:nickel_small_dust (from Tech Reborn)
+
+#c:tungstensteel_nuggets
+- techreborn:tungstensteel_nugget (from Tech Reborn)
+
+#c:titanium_nuggets
+- techreborn:titanium_nugget (from Tech Reborn)
+
+#c:zinc_nuggets
+- techreborn:zinc_nugget (from Tech Reborn)
+
+#c:cinnabar_ores
+- techreborn:cinnabar_ore (from Tech Reborn)
+
+#c:tin_plates
+- techreborn:tin_plate (from Tech Reborn)
+
+#techreborn:ingots
+- techreborn:advanced_alloy_ingot (from Tech Reborn)
+- techreborn:aluminum_ingot (from Tech Reborn)
+- techreborn:brass_ingot (from Tech Reborn)
+- techreborn:bronze_ingot (from Tech Reborn)
+- techreborn:chrome_ingot (from Tech Reborn)
+- techreborn:electrum_ingot (from Tech Reborn)
+- techreborn:hot_tungstensteel_ingot (from Tech Reborn)
+- techreborn:invar_ingot (from Tech Reborn)
+- techreborn:iridium_alloy_ingot (from Tech Reborn)
+- techreborn:iridium_ingot (from Tech Reborn)
+- techreborn:lead_ingot (from Tech Reborn)
+- techreborn:mixed_metal_ingot (from Tech Reborn)
+- techreborn:nickel_ingot (from Tech Reborn)
+- techreborn:platinum_ingot (from Tech Reborn)
+- techreborn:refined_iron_ingot (from Tech Reborn)
+- techreborn:silver_ingot (from Tech Reborn)
+- techreborn:steel_ingot (from Tech Reborn)
+- techreborn:tin_ingot (from Tech Reborn)
+- techreborn:titanium_ingot (from Tech Reborn)
+- techreborn:tungsten_ingot (from Tech Reborn)
+- techreborn:tungstensteel_ingot (from Tech Reborn)
+- techreborn:zinc_ingot (from Tech Reborn)
+
+#c:uvarovite_dusts
+- techreborn:uvarovite_dust (from Tech Reborn)
+
+#c:chromium_plates
+- techreborn:chrome_plate (from Tech Reborn)
+
+#c:aluminum_plates
+- techreborn:aluminum_plate (from Tech Reborn)
+
+#c:dead_coral_plants
+- minecraft:dead_tube_coral (from Tech Reborn)
+- minecraft:dead_brain_coral (from Tech Reborn)
+- minecraft:dead_bubble_coral (from Tech Reborn)
+- minecraft:dead_fire_coral (from Tech Reborn)
+- minecraft:dead_horn_coral (from Tech Reborn)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore (from Fabric Convention Tags)
+
+#c:lead_plates
+- techreborn:lead_plate (from Tech Reborn)
+
+#c:quartz_plates
+- techreborn:quartz_plate (from Tech Reborn)
+
+#c:diorite_dusts
+- techreborn:diorite_dust (from Tech Reborn)
+
+#c:pyrope_dusts
+- techreborn:pyrope_dust (from Tech Reborn)
+
+#c:emerald_ores
+- minecraft:emerald_ore (from Tech Reborn)
+- minecraft:deepslate_emerald_ore (from Tech Reborn)
+
+#c:green_dyes
+- minecraft:green_dye (from Fabric Convention Tags)
+
+#c:living_coral_blocks
+- minecraft:tube_coral_block (from Tech Reborn)
+- minecraft:brain_coral_block (from Tech Reborn)
+- minecraft:bubble_coral_block (from Tech Reborn)
+- minecraft:fire_coral_block (from Tech Reborn)
+- minecraft:horn_coral_block (from Tech Reborn)
+
+#charm:colored_bundles
+- charm:red_bundle (from Charm)
+- charm:orange_bundle (from Charm)
+- charm:yellow_bundle (from Charm)
+- charm:lime_bundle (from Charm)
+- charm:green_bundle (from Charm)
+- charm:cyan_bundle (from Charm)
+- charm:light_blue_bundle (from Charm)
+- charm:blue_bundle (from Charm)
+- charm:purple_bundle (from Charm)
+- charm:magenta_bundle (from Charm)
+- charm:pink_bundle (from Charm)
+- charm:brown_bundle (from Charm)
+- charm:black_bundle (from Charm)
+- charm:gray_bundle (from Charm)
+- charm:light_gray_bundle (from Charm)
+- charm:white_bundle (from Charm)
+
+#c:lead_ingots
+- techreborn:lead_ingot (from Tech Reborn)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#c:yellow_garnet_small_dusts
+- techreborn:yellow_garnet_small_dust (from Tech Reborn)
+
+#darkutils:plate_base
+- #darkutils:dark_stones (from DarkUtilities)
+- darkutils:blank_plate (from DarkUtilities)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+
+#c:redstone_dusts
+- minecraft:redstone (from Fabric Convention Tags)
+
+#techreborn:gravel_material
+- minecraft:stone (from Tech Reborn)
+- #minecraft:stone_bricks (from Tech Reborn)
+- minecraft:smooth_stone (from Tech Reborn)
+- minecraft:cobblestone (from Tech Reborn)
+- minecraft:deepslate (from Tech Reborn)
+- minecraft:deepslate_bricks (from Tech Reborn)
+- minecraft:cracked_deepslate_bricks (from Tech Reborn)
+- minecraft:deepslate_tiles (from Tech Reborn)
+- minecraft:cracked_deepslate_tiles (from Tech Reborn)
+- minecraft:polished_deepslate (from Tech Reborn)
+- minecraft:chiseled_deepslate (from Tech Reborn)
+- minecraft:cobbled_deepslate (from Tech Reborn)
+- minecraft:blackstone (from Tech Reborn)
+- minecraft:polished_blackstone (from Tech Reborn)
+- minecraft:chiseled_polished_blackstone (from Tech Reborn)
+- minecraft:polished_blackstone_bricks (from Tech Reborn)
+- minecraft:cracked_polished_blackstone_bricks (from Tech Reborn)
+
+#c:yellow_garnet_dusts
+- techreborn:yellow_garnet_dust (from Tech Reborn)
+
+#c:magnesium_small_dusts
+- techreborn:magnesium_small_dust (from Tech Reborn)
+
+#c:calcite_small_dusts
+- techreborn:calcite_small_dust (from Tech Reborn)
+
+#c:diamond_plates
+- techreborn:diamond_plate (from Tech Reborn)
+
+#techreborn:rubber_logs
+- techreborn:rubber_log (from Tech Reborn)
+- techreborn:rubber_log_stripped (from Tech Reborn)
+- techreborn:rubber_wood (from Tech Reborn)
+- techreborn:stripped_rubber_wood (from Tech Reborn)
+
+#c:grossular_small_dusts
+- techreborn:grossular_small_dust (from Tech Reborn)
+
+#techreborn:dusts
+- techreborn:almandine_dust (from Tech Reborn)
+- techreborn:aluminum_dust (from Tech Reborn)
+- techreborn:amethyst_dust (from Tech Reborn)
+- techreborn:andesite_dust (from Tech Reborn)
+- techreborn:andradite_dust (from Tech Reborn)
+- techreborn:ashes_dust (from Tech Reborn)
+- techreborn:basalt_dust (from Tech Reborn)
+- techreborn:bauxite_dust (from Tech Reborn)
+- techreborn:brass_dust (from Tech Reborn)
+- techreborn:bronze_dust (from Tech Reborn)
+- techreborn:calcite_dust (from Tech Reborn)
+- techreborn:charcoal_dust (from Tech Reborn)
+- techreborn:chrome_dust (from Tech Reborn)
+- techreborn:cinnabar_dust (from Tech Reborn)
+- techreborn:clay_dust (from Tech Reborn)
+- techreborn:coal_dust (from Tech Reborn)
+- techreborn:dark_ashes_dust (from Tech Reborn)
+- techreborn:diamond_dust (from Tech Reborn)
+- techreborn:diorite_dust (from Tech Reborn)
+- techreborn:electrum_dust (from Tech Reborn)
+- techreborn:emerald_dust (from Tech Reborn)
+- techreborn:ender_eye_dust (from Tech Reborn)
+- techreborn:ender_pearl_dust (from Tech Reborn)
+- techreborn:endstone_dust (from Tech Reborn)
+- techreborn:flint_dust (from Tech Reborn)
+- techreborn:galena_dust (from Tech Reborn)
+- techreborn:granite_dust (from Tech Reborn)
+- techreborn:grossular_dust (from Tech Reborn)
+- techreborn:invar_dust (from Tech Reborn)
+- techreborn:lazurite_dust (from Tech Reborn)
+- techreborn:magnesium_dust (from Tech Reborn)
+- techreborn:manganese_dust (from Tech Reborn)
+- techreborn:marble_dust (from Tech Reborn)
+- techreborn:netherrack_dust (from Tech Reborn)
+- techreborn:nickel_dust (from Tech Reborn)
+- techreborn:obsidian_dust (from Tech Reborn)
+- techreborn:olivine_dust (from Tech Reborn)
+- techreborn:peridot_dust (from Tech Reborn)
+- techreborn:phosphorous_dust (from Tech Reborn)
+- techreborn:platinum_dust (from Tech Reborn)
+- techreborn:pyrite_dust (from Tech Reborn)
+- techreborn:pyrope_dust (from Tech Reborn)
+- techreborn:quartz_dust (from Tech Reborn)
+- techreborn:red_garnet_dust (from Tech Reborn)
+- techreborn:ruby_dust (from Tech Reborn)
+- techreborn:saltpeter_dust (from Tech Reborn)
+- techreborn:sapphire_dust (from Tech Reborn)
+- techreborn:saw_dust (from Tech Reborn)
+- techreborn:sodalite_dust (from Tech Reborn)
+- techreborn:spessartine_dust (from Tech Reborn)
+- techreborn:sphalerite_dust (from Tech Reborn)
+- techreborn:steel_dust (from Tech Reborn)
+- techreborn:sulfur_dust (from Tech Reborn)
+- techreborn:titanium_dust (from Tech Reborn)
+- techreborn:uvarovite_dust (from Tech Reborn)
+- techreborn:yellow_garnet_dust (from Tech Reborn)
+- techreborn:zinc_dust (from Tech Reborn)
+
+#c:tin_ingots
+- techreborn:tin_ingot (from Tech Reborn)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+- charm:azalea_sign (from Charm)
+- charm:azalea_sign (from Charm)
+
+#c:phosphorous_small_dusts
+- techreborn:phosphorous_small_dust (from Tech Reborn)
+
+#c:workbench
+- minecraft:crafting_table (from Tech Reborn)
+
+#c:refined_iron_blocks
+- techreborn:refined_iron_storage_block (from Tech Reborn)
+
+#c:redstone_ores
+- minecraft:redstone_ore (from Tech Reborn)
+- minecraft:deepslate_redstone_ore (from Tech Reborn)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+
+#c:sapphire_dusts
+- techreborn:sapphire_dust (from Tech Reborn)
+
+#trinkets:all
+- artifacts:whoopee_cushion (from Artifacts)
+
+#bookshelf:slime_balls
+- #c:slimeballs (from Bookshelf)
+- #c:slime_balls (from Bookshelf)
+
+#c:brass_plates
+- techreborn:brass_plate (from Tech Reborn)
+
+#c:lazurite_small_dusts
+- techreborn:lazurite_small_dust (from Tech Reborn)
+
+#c:dead_coral_fans
+- minecraft:dead_tube_coral_fan (from Tech Reborn)
+- minecraft:dead_brain_coral_fan (from Tech Reborn)
+- minecraft:dead_bubble_coral_fan (from Tech Reborn)
+- minecraft:dead_fire_coral_fan (from Tech Reborn)
+- minecraft:dead_horn_coral_fan (from Tech Reborn)
+
+#reborncore:water_explosion
+- techreborn:sodium_bucket (from Tech Reborn)
+
+#c:olivine_dusts
+- techreborn:olivine_dust (from Tech Reborn)
+
+#c:bauxite_ores
+- techreborn:bauxite_ore (from Tech Reborn)
+- techreborn:deepslate_bauxite_ore (from Tech Reborn)
+
+#c:coal_small_dusts
+- techreborn:coal_small_dust (from Tech Reborn)
+
+#origins:shields
+- artifacts:umbrella (from Artifacts)
+
+#c:gray_dyes
+- minecraft:gray_dye (from Fabric Convention Tags)
+
+#c:netherrack_small_dusts
+- techreborn:netherrack_small_dust (from Tech Reborn)
+
+#c:brass_ingots
+- techreborn:brass_ingot (from Tech Reborn)
+
+#c:flint_dusts
+- techreborn:flint_dust (from Tech Reborn)
+
+#c:aluminum_ingots
+- techreborn:aluminum_ingot (from Tech Reborn)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#c:granite_small_dusts
+- techreborn:granite_small_dust (from Tech Reborn)
+
+#c:grossular_dusts
+- techreborn:grossular_dust (from Tech Reborn)
+
+#c:small_corals_pink
+- minecraft:brain_coral (from Tech Reborn)
+- minecraft:brain_coral_fan (from Tech Reborn)
+
+#c:amethyst_dusts
+- techreborn:amethyst_dust (from Tech Reborn)
+
+#c:zinc_plates
+- techreborn:zinc_plate (from Tech Reborn)
+
+#c:lead_ores
+- techreborn:lead_ore (from Tech Reborn)
+- techreborn:deepslate_lead_ore (from Tech Reborn)
+
+#c:copper_plates
+- techreborn:copper_plate (from Tech Reborn)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+
+#c:cooked_meat
+- minecraft:cooked_beef (from Tech Reborn)
+- minecraft:cooked_chicken (from Tech Reborn)
+- minecraft:cooked_cod (from Tech Reborn)
+- minecraft:cooked_mutton (from Tech Reborn)
+- minecraft:cooked_porkchop (from Tech Reborn)
+- minecraft:cooked_rabbit (from Tech Reborn)
+- minecraft:cooked_salmon (from Tech Reborn)
+
+#c:quartz_small_dusts
+- techreborn:quartz_small_dust (from Tech Reborn)
+
+#charm:azalea_logs
+- charm:azalea_log (from Charm)
+- charm:azalea_wood (from Charm)
+- charm:stripped_azalea_log (from Charm)
+- charm:stripped_azalea_wood (from Charm)
+
+#c:redstone_small_dusts
+- techreborn:redstone_small_dust (from Tech Reborn)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+
+#c:pyrite_small_dusts
+- techreborn:pyrite_small_dust (from Tech Reborn)
+
+#c:living_coral_fans
+- minecraft:tube_coral_fan (from Tech Reborn)
+- minecraft:brain_coral_fan (from Tech Reborn)
+- minecraft:bubble_coral_fan (from Tech Reborn)
+- minecraft:fire_coral_fan (from Tech Reborn)
+- minecraft:horn_coral_fan (from Tech Reborn)
+
+#c:blue_dyes
+- minecraft:blue_dye (from Fabric Convention Tags)
+
+#c:tungsten_nuggets
+- techreborn:tungsten_nugget (from Tech Reborn)
+
+#c:swords
+- #fabric:swords? (from Fabric Convention Tags)
+- minecraft:diamond_sword (from Fabric Convention Tags)
+- minecraft:golden_sword (from Fabric Convention Tags)
+- minecraft:wooden_sword (from Fabric Convention Tags)
+- minecraft:stone_sword (from Fabric Convention Tags)
+- minecraft:iron_sword (from Fabric Convention Tags)
+- minecraft:netherite_sword (from Fabric Convention Tags)
+
+#c:ender_eye_small_dusts
+- techreborn:ender_eye_small_dust (from Tech Reborn)
+
+#c:titanium_small_dusts
+- techreborn:titanium_small_dust (from Tech Reborn)
+
+#c:sulfur_dusts
+- techreborn:sulfur_dust (from Tech Reborn)
+
+#c:mixed_metal_ingots
+- techreborn:mixed_metal_ingot (from Tech Reborn)
+
+#c:zinc_ingots
+- techreborn:zinc_ingot (from Tech Reborn)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#c:sodalite_dusts
+- techreborn:sodalite_dust (from Tech Reborn)
+
+#c:peridot_gems
+- techreborn:peridot_gem (from Tech Reborn)
+
+#fabric:hoes
+- techreborn:bronze_hoe (from Tech Reborn)
+- techreborn:ruby_hoe (from Tech Reborn)
+- techreborn:sapphire_hoe (from Tech Reborn)
+- techreborn:peridot_hoe (from Tech Reborn)
+
+#techreborn:nuggets
+- techreborn:aluminum_nugget (from Tech Reborn)
+- techreborn:brass_nugget (from Tech Reborn)
+- techreborn:bronze_nugget (from Tech Reborn)
+- techreborn:chrome_nugget (from Tech Reborn)
+- techreborn:copper_nugget (from Tech Reborn)
+- techreborn:diamond_nugget (from Tech Reborn)
+- techreborn:electrum_nugget (from Tech Reborn)
+- techreborn:emerald_nugget (from Tech Reborn)
+- techreborn:hot_tungstensteel_nugget (from Tech Reborn)
+- techreborn:invar_nugget (from Tech Reborn)
+- techreborn:iridium_nugget (from Tech Reborn)
+- techreborn:lead_nugget (from Tech Reborn)
+- techreborn:netherite_nugget (from Tech Reborn)
+- techreborn:nickel_nugget (from Tech Reborn)
+- techreborn:platinum_nugget (from Tech Reborn)
+- techreborn:refined_iron_nugget (from Tech Reborn)
+- techreborn:silver_nugget (from Tech Reborn)
+- techreborn:steel_nugget (from Tech Reborn)
+- techreborn:tin_nugget (from Tech Reborn)
+- techreborn:titanium_nugget (from Tech Reborn)
+- techreborn:tungsten_nugget (from Tech Reborn)
+- techreborn:tungstensteel_nugget (from Tech Reborn)
+- techreborn:zinc_nugget (from Tech Reborn)
+
+#c:planks_that_burn
+- techreborn:rubber_planks (from Tech Reborn)
+
+#c:sheldonite_ores
+- techreborn:sheldonite_ore (from Tech Reborn)
+- techreborn:deepslate_sheldonite_ore (from Tech Reborn)
+
+#charm:coral_sea_lanterns
+- charm:brain_sea_lantern (from Charm)
+- charm:bubble_sea_lantern (from Charm)
+- charm:fire_sea_lantern (from Charm)
+- charm:horn_sea_lantern (from Charm)
+- charm:tube_sea_lantern (from Charm)
+
+#c:refined_iron_nuggets
+- techreborn:refined_iron_nugget (from Tech Reborn)
+
+#charm:crafting_tables
+- minecraft:crafting_table (from Charm)
+
+#c:tin_blocks
+- techreborn:tin_storage_block (from Tech Reborn)
+
+#c:diamond_nuggets
+- techreborn:diamond_nugget (from Tech Reborn)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+- #techreborn:ingots (from Tech Reborn)
+- #techreborn:ingots (from Tech Reborn)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#c:yellow_garnet_blocks
+- techreborn:yellow_garnet_storage_block (from Tech Reborn)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+- charm:azalea_trapdoor (from Charm)
+- techreborn:rubber_trapdoor (from Tech Reborn)
+- charm:azalea_trapdoor (from Charm)
+- techreborn:rubber_trapdoor (from Tech Reborn)
+
+#c:gold_ores
+- minecraft:gold_ore (from Tech Reborn)
+- minecraft:deepslate_gold_ore (from Tech Reborn)
+
+#c:pink_dyes
+- minecraft:pink_dye (from Fabric Convention Tags)
+
+#c:red_garnet_gems
+- techreborn:red_garnet_gem (from Tech Reborn)
+
+#techreborn:storage_blocks
+- techreborn:advanced_alloy_storage_block (from Tech Reborn)
+- techreborn:aluminum_storage_block (from Tech Reborn)
+- techreborn:brass_storage_block (from Tech Reborn)
+- techreborn:bronze_storage_block (from Tech Reborn)
+- techreborn:chrome_storage_block (from Tech Reborn)
+- techreborn:electrum_storage_block (from Tech Reborn)
+- techreborn:hot_tungstensteel_storage_block (from Tech Reborn)
+- techreborn:invar_storage_block (from Tech Reborn)
+- techreborn:iridium_storage_block (from Tech Reborn)
+- techreborn:iridium_reinforced_stone_storage_block (from Tech Reborn)
+- techreborn:iridium_reinforced_tungstensteel_storage_block (from Tech Reborn)
+- techreborn:lead_storage_block (from Tech Reborn)
+- techreborn:nickel_storage_block (from Tech Reborn)
+- techreborn:peridot_storage_block (from Tech Reborn)
+- techreborn:platinum_storage_block (from Tech Reborn)
+- techreborn:raw_iridium_storage_block (from Tech Reborn)
+- techreborn:raw_lead_storage_block (from Tech Reborn)
+- techreborn:raw_silver_storage_block (from Tech Reborn)
+- techreborn:raw_tin_storage_block (from Tech Reborn)
+- techreborn:raw_tungsten_storage_block (from Tech Reborn)
+- techreborn:red_garnet_storage_block (from Tech Reborn)
+- techreborn:refined_iron_storage_block (from Tech Reborn)
+- techreborn:ruby_storage_block (from Tech Reborn)
+- techreborn:sapphire_storage_block (from Tech Reborn)
+- techreborn:silver_storage_block (from Tech Reborn)
+- techreborn:steel_storage_block (from Tech Reborn)
+- techreborn:tin_storage_block (from Tech Reborn)
+- techreborn:titanium_storage_block (from Tech Reborn)
+- techreborn:tungsten_storage_block (from Tech Reborn)
+- techreborn:tungstensteel_storage_block (from Tech Reborn)
+- techreborn:yellow_garnet_storage_block (from Tech Reborn)
+- techreborn:zinc_storage_block (from Tech Reborn)
+
+#c:netherite_ingots
+- minecraft:netherite_ingot (from Fabric Convention Tags)
+
+#c:spears
+- minecraft:trident (from Fabric Convention Tags)
+
+#charm:chests/trapped
+- minecraft:trapped_chest (from Charm)
+- charm:acacia_trapped_chest (from Charm)
+- charm:azalea_trapped_chest (from Charm)
+- charm:birch_trapped_chest (from Charm)
+- charm:crimson_trapped_chest (from Charm)
+- charm:dark_oak_trapped_chest (from Charm)
+- charm:jungle_trapped_chest (from Charm)
+- charm:mangrove_trapped_chest (from Charm)
+- charm:oak_trapped_chest (from Charm)
+- charm:spruce_trapped_chest (from Charm)
+- charm:warped_trapped_chest (from Charm)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- charm:cut_iron_stairs (from Charm)
+- charm:exposed_cut_iron_stairs (from Charm)
+- charm:weathered_cut_iron_stairs (from Charm)
+- charm:oxidized_cut_iron_stairs (from Charm)
+- charm:waxed_cut_iron_stairs (from Charm)
+- charm:waxed_exposed_cut_iron_stairs (from Charm)
+- charm:waxed_weathered_cut_iron_stairs (from Charm)
+- charm:waxed_oxidized_cut_iron_stairs (from Charm)
+- techreborn:rubber_stair (from Tech Reborn)
+- charm:cut_iron_stairs (from Charm)
+- charm:exposed_cut_iron_stairs (from Charm)
+- charm:weathered_cut_iron_stairs (from Charm)
+- charm:oxidized_cut_iron_stairs (from Charm)
+- charm:waxed_cut_iron_stairs (from Charm)
+- charm:waxed_exposed_cut_iron_stairs (from Charm)
+- charm:waxed_weathered_cut_iron_stairs (from Charm)
+- charm:waxed_oxidized_cut_iron_stairs (from Charm)
+- techreborn:rubber_stair (from Tech Reborn)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+
+#c:titanium_plates
+- techreborn:titanium_plate (from Tech Reborn)
+
+#c:emerald_small_dusts
+- techreborn:emerald_small_dust (from Tech Reborn)
+
+#c:titanium_ingots
+- techreborn:titanium_ingot (from Tech Reborn)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+
+#c:aluminum_blocks
+- techreborn:aluminum_storage_block (from Tech Reborn)
+
+#c:pickaxes
+- #fabric:pickaxes? (from Fabric Convention Tags)
+- minecraft:diamond_pickaxe (from Fabric Convention Tags)
+- minecraft:golden_pickaxe (from Fabric Convention Tags)
+- minecraft:wooden_pickaxe (from Fabric Convention Tags)
+- minecraft:stone_pickaxe (from Fabric Convention Tags)
+- minecraft:iron_pickaxe (from Fabric Convention Tags)
+- minecraft:netherite_pickaxe (from Fabric Convention Tags)
+
+#c:white_dyes
+- minecraft:white_dye (from Fabric Convention Tags)
+
+#c:slime_balls
+- minecraft:slime_ball (from Bookshelf)
+
+#c:invar_nuggets
+- techreborn:invar_nugget (from Tech Reborn)
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+- charm:azalea_door (from Charm)
+- techreborn:rubber_door (from Tech Reborn)
+- charm:azalea_door (from Charm)
+- techreborn:rubber_door (from Tech Reborn)
+
+#c:magnalium_plates
+- techreborn:magnalium_plate (from Tech Reborn)
+
+#c:wooden_barrels
+- minecraft:barrel (from Tech Reborn)
+
+#c:iridium_nuggets
+- techreborn:iridium_nugget (from Tech Reborn)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#c:bronze_nuggets
+- techreborn:bronze_nugget (from Tech Reborn)
+
+#c:netherrack_dusts
+- techreborn:netherrack_dust (from Tech Reborn)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#c:marble_small_dusts
+- techreborn:marble_small_dust (from Tech Reborn)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+- minecraft:leather (from Default)
+- techreborn:electrum_nugget (from Tech Reborn)
+- techreborn:electrum_ingot (from Tech Reborn)
+- techreborn:electrum_nugget (from Tech Reborn)
+- techreborn:electrum_ingot (from Tech Reborn)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#c:advanced_alloy_plates
+- techreborn:advanced_alloy_plate (from Tech Reborn)
+
+#c:nickel_plates
+- techreborn:nickel_plate (from Tech Reborn)
+
+#c:sea_lanterns
+- minecraft:sea_lantern (from Charm)
+- charm:brain_sea_lantern (from Charm)
+- charm:bubble_sea_lantern (from Charm)
+- charm:fire_sea_lantern (from Charm)
+- charm:horn_sea_lantern (from Charm)
+- charm:tube_sea_lantern (from Charm)
+
+#c:hot_tungstensteel_blocks
+- techreborn:hot_tungstensteel_storage_block (from Tech Reborn)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+
+#c:coal_ores
+- minecraft:coal_ore (from Tech Reborn)
+- minecraft:deepslate_coal_ore (from Tech Reborn)
+
+#c:sodalite_ores
+- techreborn:sodalite_ore (from Tech Reborn)
+- techreborn:deepslate_sodalite_ore (from Tech Reborn)
+
+#c:saltpeter_dusts
+- techreborn:saltpeter_dust (from Tech Reborn)
+
+#c:platinum_ingots
+- techreborn:platinum_ingot (from Tech Reborn)
+
+#c:glass_panes
+- minecraft:glass_pane (from Fabric Convention Tags)
+- minecraft:gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:black_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:orange_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:brown_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:green_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:lime_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:pink_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:purple_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:red_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:white_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass_pane (from Fabric Convention Tags)
+
+#c:chromium_dusts
+- techreborn:chrome_dust (from Tech Reborn)
+
+#charm:chains
+- minecraft:chain (from Charm)
+- charm:gold_chain (from Charm)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#c:ruby_ores
+- techreborn:ruby_ore (from Tech Reborn)
+- techreborn:deepslate_ruby_ore (from Tech Reborn)
+
+#c:raw_copper_ores
+- minecraft:raw_copper (from Fabric Convention Tags)
+
+#c:orange_dyes
+- minecraft:orange_dye (from Fabric Convention Tags)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+- charm:gold_soul_lantern (from Charm)
+- charm:gold_soul_lantern (from Charm)
+
+#c:advanced_alloy_ingots
+- techreborn:advanced_alloy_ingot (from Tech Reborn)
+
+#c:shears
+- minecraft:shears (from Bookshelf)
+- #fabric:shears? (from Fabric Convention Tags)
+- minecraft:shears (from Fabric Convention Tags)
+
+#charm:chests/wooden
+- minecraft:chest (from Charm)
+- minecraft:trapped_chest (from Charm)
+- charm:acacia_chest (from Charm)
+- charm:acacia_trapped_chest (from Charm)
+- charm:azalea_chest (from Charm)
+- charm:azalea_trapped_chest (from Charm)
+- charm:birch_chest (from Charm)
+- charm:birch_trapped_chest (from Charm)
+- charm:crimson_chest (from Charm)
+- charm:crimson_trapped_chest (from Charm)
+- charm:dark_oak_chest (from Charm)
+- charm:dark_oak_trapped_chest (from Charm)
+- charm:jungle_chest (from Charm)
+- charm:jungle_trapped_chest (from Charm)
+- charm:mangrove_chest (from Charm)
+- charm:mangrove_trapped_chest (from Charm)
+- charm:oak_chest (from Charm)
+- charm:oak_trapped_chest (from Charm)
+- charm:spruce_chest (from Charm)
+- charm:spruce_trapped_chest (from Charm)
+- charm:warped_chest (from Charm)
+- charm:warped_trapped_chest (from Charm)
+
+#c:potions
+- minecraft:lingering_potion (from Fabric Convention Tags)
+- minecraft:splash_potion (from Fabric Convention Tags)
+- minecraft:potion (from Fabric Convention Tags)
+
+#c:ruby_dusts
+- techreborn:ruby_dust (from Tech Reborn)
+
+#trinkets:chest/necklace
+- artifacts:cross_necklace (from Artifacts)
+- artifacts:flame_pendant (from Artifacts)
+- artifacts:lucky_scarf (from Artifacts)
+- artifacts:panic_necklace (from Artifacts)
+- artifacts:scarf_of_invisibility (from Artifacts)
+- artifacts:shock_pendant (from Artifacts)
+- artifacts:thorn_pendant (from Artifacts)
+- artifacts:charm_of_sinking (from Artifacts)
+- #darkutils:charms (from DarkUtilities)
+
+#c:electrum_dusts
+- techreborn:electrum_dust (from Tech Reborn)
+
+#c:silver_ores
+- techreborn:silver_ore (from Tech Reborn)
+- techreborn:deepslate_silver_ore (from Tech Reborn)
+
+#c:raw_iridium_blocks
+- techreborn:raw_iridium_storage_block (from Tech Reborn)
+
+#bookshelf:fence_gates
+- #c:fence_gates (from Bookshelf)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#c:tin_nuggets
+- techreborn:tin_nugget (from Tech Reborn)
+
+#c:electrum_small_dusts
+- techreborn:electrum_small_dust (from Tech Reborn)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+- charm:azalea_stairs (from Charm)
+- techreborn:rubber_stair (from Tech Reborn)
+- charm:azalea_stairs (from Charm)
+- techreborn:rubber_stair (from Tech Reborn)
+
+#c:platinum_dusts
+- techreborn:platinum_dust (from Tech Reborn)
+
+#techreborn:calcite_dust_material
+- minecraft:calcite (from Tech Reborn)
+- #c:coral_blocks (from Tech Reborn)
+- minecraft:dripstone_block (from Tech Reborn)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+- charm:azalea_button (from Charm)
+- techreborn:rubber_button (from Tech Reborn)
+- charm:azalea_button (from Charm)
+- techreborn:rubber_button (from Tech Reborn)
+
+#c:slimeballs
+- minecraft:slime_ball (from Bookshelf)
+
+#c:yellow_garnet_gems
+- techreborn:yellow_garnet_gem (from Tech Reborn)
+
+#c:marble_dusts
+- techreborn:marble_dust (from Tech Reborn)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#c:milk_buckets
+- minecraft:milk_bucket (from Fabric Convention Tags)
+
+#c:strings
+- minecraft:string (from Bookshelf)
+
+#c:iron_ores
+- minecraft:iron_ore (from Tech Reborn)
+- minecraft:deepslate_iron_ore (from Tech Reborn)
+
+#c:galena_dusts
+- techreborn:galena_dust (from Tech Reborn)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- charm:cut_iron_slab (from Charm)
+- charm:exposed_cut_iron_slab (from Charm)
+- charm:weathered_cut_iron_slab (from Charm)
+- charm:oxidized_cut_iron_slab (from Charm)
+- charm:waxed_cut_iron_slab (from Charm)
+- charm:waxed_exposed_cut_iron_slab (from Charm)
+- charm:waxed_weathered_cut_iron_slab (from Charm)
+- charm:waxed_oxidized_cut_iron_slab (from Charm)
+- techreborn:rubber_slab (from Tech Reborn)
+- charm:cut_iron_slab (from Charm)
+- charm:exposed_cut_iron_slab (from Charm)
+- charm:weathered_cut_iron_slab (from Charm)
+- charm:oxidized_cut_iron_slab (from Charm)
+- charm:waxed_cut_iron_slab (from Charm)
+- charm:waxed_exposed_cut_iron_slab (from Charm)
+- charm:waxed_weathered_cut_iron_slab (from Charm)
+- charm:waxed_oxidized_cut_iron_slab (from Charm)
+- techreborn:rubber_slab (from Tech Reborn)
+
+#c:coal
+- #minecraft:coals? (from Fabric Convention Tags)
+
+#c:pyrope_small_dusts
+- techreborn:pyrope_small_dust (from Tech Reborn)
+
+#c:titanium_dusts
+- techreborn:titanium_dust (from Tech Reborn)
+
+#techreborn:plantball_material
+- #minecraft:leaves (from Tech Reborn)
+- #minecraft:saplings (from Tech Reborn)
+- minecraft:beetroot (from Tech Reborn)
+- minecraft:carrot (from Tech Reborn)
+- minecraft:potato (from Tech Reborn)
+- minecraft:wheat (from Tech Reborn)
+- minecraft:melon (from Tech Reborn)
+- minecraft:sugar_cane (from Tech Reborn)
+- minecraft:cactus (from Tech Reborn)
+- minecraft:apple (from Tech Reborn)
+- minecraft:pumpkin (from Tech Reborn)
+- minecraft:kelp (from Tech Reborn)
+- minecraft:sweet_berries (from Tech Reborn)
+
+#c:saw_dusts
+- techreborn:saw_dust (from Tech Reborn)
+
+#c:raw_tungsten_ores
+- techreborn:raw_tungsten (from Tech Reborn)
+
+#charm:bookshelves
+- charm:acacia_bookshelf (from Charm)
+- charm:azalea_bookshelf (from Charm)
+- charm:birch_bookshelf (from Charm)
+- charm:crimson_bookshelf (from Charm)
+- charm:dark_oak_bookshelf (from Charm)
+- charm:jungle_bookshelf (from Charm)
+- charm:mangrove_bookshelf (from Charm)
+- charm:oak_bookshelf (from Charm)
+- charm:spruce_bookshelf (from Charm)
+- charm:warped_bookshelf (from Charm)
+
+#c:calcite_dusts
+- techreborn:calcite_dust (from Tech Reborn)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+
+#c:small_corals_dead
+- #c:dead_coral_plants (from Tech Reborn)
+- #c:dead_coral_fans (from Tech Reborn)
+
+#c:invar_plates
+- techreborn:invar_plate (from Tech Reborn)
+
+#c:aluminum_nuggets
+- techreborn:aluminum_nugget (from Tech Reborn)
+
+#c:small_corals_yellow
+- minecraft:horn_coral (from Tech Reborn)
+- minecraft:horn_coral_fan (from Tech Reborn)
+
+#c:tungsten_ingots
+- techreborn:tungsten_ingot (from Tech Reborn)
+
+#c:lead_nuggets
+- techreborn:lead_nugget (from Tech Reborn)
+
+#darkutils:charms
+- darkutils:charm_sleep (from DarkUtilities)
+- darkutils:charm_warding (from DarkUtilities)
+- darkutils:charm_portal (from DarkUtilities)
+
+#c:silver_blocks
+- techreborn:silver_storage_block (from Tech Reborn)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+
+#c:yellow_dyes
+- minecraft:yellow_dye (from Fabric Convention Tags)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#c:basalt
+- minecraft:basalt (from Tech Reborn)
+- minecraft:polished_basalt (from Tech Reborn)
+- minecraft:smooth_basalt (from Tech Reborn)
+
+#c:sphalerite_dusts
+- techreborn:sphalerite_dust (from Tech Reborn)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+- charm:azalea_pressure_plate (from Charm)
+- techreborn:rubber_pressure_plate (from Tech Reborn)
+- charm:azalea_pressure_plate (from Charm)
+- techreborn:rubber_pressure_plate (from Tech Reborn)
+
+#trinkets:legs/belt
+- artifacts:antidote_vessel (from Artifacts)
+- artifacts:cloud_in_a_bottle (from Artifacts)
+- artifacts:crystal_heart (from Artifacts)
+- artifacts:obsidian_skull (from Artifacts)
+- artifacts:universal_attractor (from Artifacts)
+- artifacts:helium_flamingo (from Artifacts)
+
+#c:chromium_small_dusts
+- techreborn:chrome_small_dust (from Tech Reborn)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+
+#c:brass_dusts
+- techreborn:brass_dust (from Tech Reborn)
+
+#c:red_garnet_small_dusts
+- techreborn:red_garnet_small_dust (from Tech Reborn)
+
+#c:quartz
+- minecraft:quartz (from Fabric Convention Tags)
+
+#c:lead_blocks
+- techreborn:lead_storage_block (from Tech Reborn)
+
+#charm:lanterns
+- minecraft:lantern (from Charm)
+- minecraft:soul_lantern (from Charm)
+- charm:redstone_lantern (from Charm)
+- charm:gold_lantern (from Charm)
+- charm:gold_soul_lantern (from Charm)
+
+#c:small_corals_blue
+- minecraft:tube_coral (from Tech Reborn)
+- minecraft:tube_coral_fan (from Tech Reborn)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#c:chromium_nuggets
+- techreborn:chrome_nugget (from Tech Reborn)
+
+#c:tungsten_plates
+- techreborn:tungsten_plate (from Tech Reborn)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#c:pyrite_dusts
+- techreborn:pyrite_dust (from Tech Reborn)
+
+#c:sapphire_ores
+- techreborn:sapphire_ore (from Tech Reborn)
+- techreborn:deepslate_sapphire_ore (from Tech Reborn)
+
+#c:ores
+- #minecraft:iron_ores? (from Fabric Convention Tags)
+- #minecraft:copper_ores? (from Fabric Convention Tags)
+- #minecraft:redstone_ores? (from Fabric Convention Tags)
+- #minecraft:gold_ores? (from Fabric Convention Tags)
+- #minecraft:coal_ores? (from Fabric Convention Tags)
+- #minecraft:diamond_ores? (from Fabric Convention Tags)
+- #minecraft:lapis_ores? (from Fabric Convention Tags)
+- #c:quartz_ores? (from Fabric Convention Tags)
+- #minecraft:emerald_ores? (from Fabric Convention Tags)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#c:olivine_small_dusts
+- techreborn:olivine_small_dust (from Tech Reborn)
+
+#c:peridot_blocks
+- techreborn:peridot_storage_block (from Tech Reborn)
+
+#c:red_garnet_plates
+- techreborn:red_garnet_plate (from Tech Reborn)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- techreborn:basic_drill (from Tech Reborn)
+- techreborn:advanced_drill (from Tech Reborn)
+- techreborn:industrial_drill (from Tech Reborn)
+- techreborn:omni_tool (from Tech Reborn)
+- techreborn:basic_drill (from Tech Reborn)
+- techreborn:advanced_drill (from Tech Reborn)
+- techreborn:industrial_drill (from Tech Reborn)
+- techreborn:omni_tool (from Tech Reborn)
+
+#c:tungsten_small_dusts
+- techreborn:tungsten_small_dust (from Tech Reborn)
+
+#c:ruby_small_dusts
+- techreborn:ruby_small_dust (from Tech Reborn)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#bookshelf:shears
+- #c:shears (from Bookshelf)
+
+#c:foods
+- minecraft:apple (from Fabric Convention Tags)
+- minecraft:mushroom_stew (from Fabric Convention Tags)
+- minecraft:bread (from Fabric Convention Tags)
+- minecraft:porkchop (from Fabric Convention Tags)
+- minecraft:cooked_porkchop (from Fabric Convention Tags)
+- minecraft:golden_apple (from Fabric Convention Tags)
+- minecraft:enchanted_golden_apple (from Fabric Convention Tags)
+- minecraft:cod (from Fabric Convention Tags)
+- minecraft:salmon (from Fabric Convention Tags)
+- minecraft:tropical_fish (from Fabric Convention Tags)
+- minecraft:pufferfish (from Fabric Convention Tags)
+- minecraft:cooked_cod (from Fabric Convention Tags)
+- minecraft:cooked_salmon (from Fabric Convention Tags)
+- minecraft:cookie (from Fabric Convention Tags)
+- minecraft:melon_slice (from Fabric Convention Tags)
+- minecraft:dried_kelp (from Fabric Convention Tags)
+- minecraft:beef (from Fabric Convention Tags)
+- minecraft:cooked_beef (from Fabric Convention Tags)
+- minecraft:chicken (from Fabric Convention Tags)
+- minecraft:cooked_chicken (from Fabric Convention Tags)
+- minecraft:rotten_flesh (from Fabric Convention Tags)
+- minecraft:spider_eye (from Fabric Convention Tags)
+- minecraft:carrot (from Fabric Convention Tags)
+- minecraft:potato (from Fabric Convention Tags)
+- minecraft:baked_potato (from Fabric Convention Tags)
+- minecraft:poisonous_potato (from Fabric Convention Tags)
+- minecraft:golden_carrot (from Fabric Convention Tags)
+- minecraft:pumpkin_pie (from Fabric Convention Tags)
+- minecraft:rabbit (from Fabric Convention Tags)
+- minecraft:cooked_rabbit (from Fabric Convention Tags)
+- minecraft:rabbit_stew (from Fabric Convention Tags)
+- minecraft:mutton (from Fabric Convention Tags)
+- minecraft:cooked_mutton (from Fabric Convention Tags)
+- minecraft:chorus_fruit (from Fabric Convention Tags)
+- minecraft:beetroot (from Fabric Convention Tags)
+- minecraft:beetroot_soup (from Fabric Convention Tags)
+- minecraft:suspicious_stew (from Fabric Convention Tags)
+- minecraft:sweet_berries (from Fabric Convention Tags)
+- minecraft:glow_berries (from Fabric Convention Tags)
+- minecraft:honey_bottle (from Fabric Convention Tags)
+
+#c:basalt_small_dusts
+- techreborn:basalt_small_dust (from Tech Reborn)
+
+#c:lava_buckets
+- minecraft:lava_bucket (from Fabric Convention Tags)
+
+#c:raw_iron_ores
+- minecraft:raw_iron (from Fabric Convention Tags)
+
+#c:granite_dusts
+- techreborn:granite_dust (from Tech Reborn)
+
+#c:magenta_dyes
+- minecraft:magenta_dye (from Fabric Convention Tags)
+
+#c:peridot_ores
+- techreborn:peridot_ore (from Tech Reborn)
+- techreborn:deepslate_peridot_ore (from Tech Reborn)
+
+#c:black_dyes
+- minecraft:black_dye (from Fabric Convention Tags)
+
+#c:emerald_plates
+- techreborn:emerald_plate (from Tech Reborn)
+
+#c:spessartine_small_dusts
+- techreborn:spessartine_small_dust (from Tech Reborn)
+
+#c:small_corals_red
+- minecraft:fire_coral (from Tech Reborn)
+- minecraft:fire_coral_fan (from Tech Reborn)
+
+#c:lapis
+- minecraft:lapis_lazuli (from Fabric Convention Tags)
+
+#c:sphalerite_ores
+- techreborn:sphalerite_ore (from Tech Reborn)
+
+#c:coral_plants
+- #c:living_coral_plants (from Tech Reborn)
+- #c:dead_coral_plants (from Tech Reborn)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#c:iridium_plates
+- techreborn:iridium_plate (from Tech Reborn)
+
+#c:sapphire_small_dusts
+- techreborn:sapphire_small_dust (from Tech Reborn)
+
+#c:refined_iron_ingots
+- techreborn:refined_iron_ingot (from Tech Reborn)
+
+#c:raw_tungsten_blocks
+- techreborn:raw_tungsten_storage_block (from Tech Reborn)
+
+#c:magnesium_dusts
+- techreborn:magnesium_dust (from Tech Reborn)
+
+#c:bundles
+- minecraft:bundle (from Charm)
+- charm:red_bundle (from Charm)
+- charm:orange_bundle (from Charm)
+- charm:yellow_bundle (from Charm)
+- charm:lime_bundle (from Charm)
+- charm:green_bundle (from Charm)
+- charm:cyan_bundle (from Charm)
+- charm:light_blue_bundle (from Charm)
+- charm:blue_bundle (from Charm)
+- charm:purple_bundle (from Charm)
+- charm:magenta_bundle (from Charm)
+- charm:pink_bundle (from Charm)
+- charm:brown_bundle (from Charm)
+- charm:black_bundle (from Charm)
+- charm:gray_bundle (from Charm)
+- charm:light_gray_bundle (from Charm)
+- charm:white_bundle (from Charm)
+
+#c:clay_small_dusts
+- techreborn:clay_small_dust (from Tech Reborn)
+
+#c:lime_dyes
+- minecraft:lime_dye (from Fabric Convention Tags)
+
+#c:sphalerite_small_dusts
+- techreborn:sphalerite_small_dust (from Tech Reborn)
+
+#c:living_coral_plants
+- minecraft:tube_coral (from Tech Reborn)
+- minecraft:brain_coral (from Tech Reborn)
+- minecraft:bubble_coral (from Tech Reborn)
+- minecraft:fire_coral (from Tech Reborn)
+- minecraft:horn_coral (from Tech Reborn)
+
+#c:platinum_small_dusts
+- techreborn:platinum_small_dust (from Tech Reborn)
+
+#c:brass_blocks
+- techreborn:brass_storage_block (from Tech Reborn)
+
+#trinkets:hand/glove
+- artifacts:digging_claws (from Artifacts)
+- artifacts:feral_claws (from Artifacts)
+- artifacts:fire_gauntlet (from Artifacts)
+- artifacts:pocket_piston (from Artifacts)
+- artifacts:power_glove (from Artifacts)
+- artifacts:vampiric_glove (from Artifacts)
+- artifacts:golden_hook (from Artifacts)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#fabric:shovels
+- techreborn:bronze_spade (from Tech Reborn)
+- techreborn:ruby_spade (from Tech Reborn)
+- techreborn:sapphire_spade (from Tech Reborn)
+- techreborn:peridot_spade (from Tech Reborn)
+- techreborn:basic_drill (from Tech Reborn)
+- techreborn:advanced_drill (from Tech Reborn)
+- techreborn:industrial_drill (from Tech Reborn)
+- techreborn:omni_tool (from Tech Reborn)
+
+#c:phosphorous_dusts
+- techreborn:phosphorous_dust (from Tech Reborn)
+
+#c:coral_fans
+- #c:living_coral_fans (from Tech Reborn)
+- #c:dead_coral_fans (from Tech Reborn)
+
+#c:andesite_dusts
+- techreborn:andesite_dust (from Tech Reborn)
+
+#c:raw_silver_blocks
+- techreborn:raw_silver_storage_block (from Tech Reborn)
+
+#c:invar_small_dusts
+- techreborn:invar_small_dust (from Tech Reborn)
+
+#c:dark_ashes_dusts
+- techreborn:dark_ashes_dust (from Tech Reborn)
+
+#c:nickel_nuggets
+- techreborn:nickel_nugget (from Tech Reborn)
+
+#bookshelf:stones
+- #c:stones (from Bookshelf)
+- #c:stone (from Bookshelf)
+
+#c:lapis_ores
+- minecraft:lapis_ore (from Tech Reborn)
+- minecraft:deepslate_lapis_ore (from Tech Reborn)
+
+#trinkets:offhand/glove
+- artifacts:digging_claws (from Artifacts)
+- artifacts:feral_claws (from Artifacts)
+- artifacts:fire_gauntlet (from Artifacts)
+- artifacts:pocket_piston (from Artifacts)
+- artifacts:power_glove (from Artifacts)
+- artifacts:vampiric_glove (from Artifacts)
+- artifacts:golden_hook (from Artifacts)
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#c:ruby_blocks
+- techreborn:ruby_storage_block (from Tech Reborn)
+
+#c:silver_ingots
+- techreborn:silver_ingot (from Tech Reborn)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- charm:crimson_barrel (from Charm)
+- charm:crimson_bookshelf (from Charm)
+- charm:warped_barrel (from Charm)
+- charm:warped_bookshelf (from Charm)
+- charm:crimson_barrel (from Charm)
+- charm:crimson_bookshelf (from Charm)
+- charm:warped_barrel (from Charm)
+- charm:warped_bookshelf (from Charm)
+
+#c:andradite_small_dusts
+- techreborn:andradite_small_dust (from Tech Reborn)
+
+#c:lazurite_plates
+- techreborn:lazurite_plate (from Tech Reborn)
+
+#c:uvarovite_small_dusts
+- techreborn:uvarovite_small_dust (from Tech Reborn)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#c:emeralds
+- minecraft:emerald (from Fabric Convention Tags)
+
+#c:pyrite_ores
+- techreborn:pyrite_ore (from Tech Reborn)
+
+#c:platinum_plates
+- techreborn:platinum_plate (from Tech Reborn)
+
+#charm:barrels
+- minecraft:barrel (from Charm)
+- charm:acacia_barrel (from Charm)
+- charm:azalea_barrel (from Charm)
+- charm:birch_barrel (from Charm)
+- charm:crimson_barrel (from Charm)
+- charm:dark_oak_barrel (from Charm)
+- charm:jungle_barrel (from Charm)
+- charm:mangrove_barrel (from Charm)
+- charm:oak_barrel (from Charm)
+- charm:spruce_barrel (from Charm)
+- charm:warped_barrel (from Charm)
+
+#c:sapphire_blocks
+- techreborn:sapphire_storage_block (from Tech Reborn)
+
+#trinkets:feet/shoes
+- artifacts:bunny_hoppers (from Artifacts)
+- artifacts:flippers (from Artifacts)
+- artifacts:kitty_slippers (from Artifacts)
+- artifacts:running_shoes (from Artifacts)
+- artifacts:steadfast_spikes (from Artifacts)
+- artifacts:aqua_dashers (from Artifacts)
+
+#c:electrum_blocks
+- techreborn:electrum_storage_block (from Tech Reborn)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+- techreborn:rubber_fence (from Tech Reborn)
+- techreborn:refined_iron_fence (from Tech Reborn)
+- techreborn:rubber_fence (from Tech Reborn)
+- techreborn:refined_iron_fence (from Tech Reborn)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- techreborn:rubber_sapling (from Tech Reborn)
+- techreborn:rubber_sapling (from Tech Reborn)
+
+#c:diamond_dusts
+- techreborn:diamond_dust (from Tech Reborn)
+
+#c:stones
+- minecraft:stone (from Bookshelf)
+- minecraft:andesite (from Bookshelf)
+- minecraft:polished_andesite (from Bookshelf)
+- minecraft:diorite (from Bookshelf)
+- minecraft:polished_diorite (from Bookshelf)
+- minecraft:granite (from Bookshelf)
+- minecraft:polished_granite (from Bookshelf)
+- minecraft:deepslate (from Bookshelf)
+- minecraft:polished_deepslate (from Bookshelf)
+- minecraft:infested_deepslate (from Bookshelf)
+
+#c:almandine_small_dusts
+- techreborn:almandine_small_dust (from Tech Reborn)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+- charm:azalea_fence (from Charm)
+- techreborn:rubber_fence (from Tech Reborn)
+- charm:azalea_fence (from Charm)
+- techreborn:rubber_fence (from Tech Reborn)
+
+#c:diorite_small_dusts
+- techreborn:diorite_small_dust (from Tech Reborn)
+
+#c:chromium_blocks
+- techreborn:chrome_storage_block (from Tech Reborn)
+
+#c:quartz_dusts
+- techreborn:quartz_dust (from Tech Reborn)
+
+#c:bronze_blocks
+- techreborn:bronze_storage_block (from Tech Reborn)
+
+#c:lazurite_dusts
+- techreborn:lazurite_dust (from Tech Reborn)
+
+#c:steel_nuggets
+- techreborn:steel_nugget (from Tech Reborn)
+
+#c:silver_plates
+- techreborn:silver_plate (from Tech Reborn)
+
+#c:ender_pearl_dusts
+- techreborn:ender_pearl_dust (from Tech Reborn)
+
+#c:raw_lead_blocks
+- techreborn:raw_lead_storage_block (from Tech Reborn)
+
+#c:bars
+- minecraft:iron_bars (from Charm)
+- charm:copper_bars (from Charm)
+- charm:gold_bars (from Charm)
+- charm:netherite_bars (from Charm)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#c:ashes_small_dusts
+- techreborn:ashes_small_dust (from Tech Reborn)
+
+#c:manganese_small_dusts
+- techreborn:manganese_small_dust (from Tech Reborn)
+
+#c:clay_dusts
+- techreborn:clay_dust (from Tech Reborn)
+
+#c:titanium_blocks
+- techreborn:titanium_storage_block (from Tech Reborn)
+
+#c:endstone_dusts
+- techreborn:endstone_dust (from Tech Reborn)
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye (from Fabric Convention Tags)
+
+#c:iron_ingots
+- minecraft:iron_ingot (from Fabric Convention Tags)
+
+#c:silicon_plates
+- techreborn:silicon_plate (from Tech Reborn)
+
+#c:charcoal_dusts
+- techreborn:charcoal_dust (from Tech Reborn)
+
+#charm:bookcases
+- charm:acacia_bookcase (from Charm)
+- charm:azalea_bookcase (from Charm)
+- charm:birch_bookcase (from Charm)
+- charm:crimson_bookcase (from Charm)
+- charm:dark_oak_bookcase (from Charm)
+- charm:jungle_bookcase (from Charm)
+- charm:oak_bookcase (from Charm)
+- charm:spruce_bookcase (from Charm)
+- charm:warped_bookcase (from Charm)
+
+#c:refined_iron_plates
+- techreborn:refined_iron_plate (from Tech Reborn)
+
+#c:nickel_ingots
+- techreborn:nickel_ingot (from Tech Reborn)
+
+#c:raw_copper_blocks
+- minecraft:raw_copper_block (from Fabric Convention Tags)
+
+#c:copper_ores
+- minecraft:copper_ore (from Tech Reborn)
+- minecraft:deepslate_copper_ore (from Tech Reborn)
+
+#c:steel_ingots
+- techreborn:steel_ingot (from Tech Reborn)
+
+#c:raw_gold_blocks
+- minecraft:raw_gold_block (from Fabric Convention Tags)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+
+#c:tungstensteel_plates
+- techreborn:tungstensteel_plate (from Tech Reborn)
+
+#techreborn:ores
+- techreborn:bauxite_ore (from Tech Reborn)
+- techreborn:cinnabar_ore (from Tech Reborn)
+- techreborn:galena_ore (from Tech Reborn)
+- techreborn:iridium_ore (from Tech Reborn)
+- techreborn:lead_ore (from Tech Reborn)
+- techreborn:peridot_ore (from Tech Reborn)
+- techreborn:pyrite_ore (from Tech Reborn)
+- techreborn:ruby_ore (from Tech Reborn)
+- techreborn:sapphire_ore (from Tech Reborn)
+- techreborn:sheldonite_ore (from Tech Reborn)
+- techreborn:silver_ore (from Tech Reborn)
+- techreborn:sodalite_ore (from Tech Reborn)
+- techreborn:sphalerite_ore (from Tech Reborn)
+- techreborn:tin_ore (from Tech Reborn)
+- techreborn:tungsten_ore (from Tech Reborn)
+- techreborn:deepslate_bauxite_ore (from Tech Reborn)
+- techreborn:deepslate_galena_ore (from Tech Reborn)
+- techreborn:deepslate_iridium_ore (from Tech Reborn)
+- techreborn:deepslate_lead_ore (from Tech Reborn)
+- techreborn:deepslate_peridot_ore (from Tech Reborn)
+- techreborn:deepslate_ruby_ore (from Tech Reborn)
+- techreborn:deepslate_sapphire_ore (from Tech Reborn)
+- techreborn:deepslate_sheldonite_ore (from Tech Reborn)
+- techreborn:deepslate_silver_ore (from Tech Reborn)
+- techreborn:deepslate_sodalite_ore (from Tech Reborn)
+- techreborn:deepslate_tin_ore (from Tech Reborn)
+- techreborn:deepslate_tungsten_ore (from Tech Reborn)
+
+#c:raw_silver_ores
+- techreborn:raw_silver (from Tech Reborn)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+- charm:azalea_boat (from Charm)
+- charm:azalea_boat (from Charm)
+
+#charm:bars
+- minecraft:iron_bars (from Charm)
+- charm:copper_bars (from Charm)
+- charm:gold_bars (from Charm)
+- charm:netherite_bars (from Charm)
+
+#c:hot_tungstensteel_ingots
+- techreborn:hot_tungstensteel_ingot (from Tech Reborn)
+
+#c:yellow_garnet_plates
+- techreborn:yellow_garnet_plate (from Tech Reborn)
+
+#c:rubies
+- techreborn:ruby_gem (from Tech Reborn)
+
+#c:aluminum_dusts
+- techreborn:aluminum_dust (from Tech Reborn)
+
+#c:water_buckets
+- minecraft:axolotl_bucket (from Fabric Convention Tags)
+- minecraft:cod_bucket (from Fabric Convention Tags)
+- minecraft:pufferfish_bucket (from Fabric Convention Tags)
+- minecraft:tropical_fish_bucket (from Fabric Convention Tags)
+- minecraft:salmon_bucket (from Fabric Convention Tags)
+- minecraft:tadpole_bucket (from Fabric Convention Tags)
+- minecraft:water_bucket (from Fabric Convention Tags)
+
+#c:empty_buckets
+- minecraft:bucket (from Fabric Convention Tags)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+- techreborn:rubber_leaves (from Tech Reborn)
+- techreborn:rubber_leaves (from Tech Reborn)
+
+#c:dead_coral_blocks
+- minecraft:dead_tube_coral_block (from Tech Reborn)
+- minecraft:dead_brain_coral_block (from Tech Reborn)
+- minecraft:dead_bubble_coral_block (from Tech Reborn)
+- minecraft:dead_fire_coral_block (from Tech Reborn)
+- minecraft:dead_horn_coral_block (from Tech Reborn)
+
+#c:platinum_nuggets
+- techreborn:platinum_nugget (from Tech Reborn)
+
+#c:obsidian_dusts
+- techreborn:obsidian_dust (from Tech Reborn)
+
+#c:string
+- minecraft:string (from Bookshelf)
+
+#c:steel_small_dusts
+- techreborn:steel_small_dust (from Tech Reborn)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- artifacts:golden_hook (from Artifacts)
+- charm:gold_bars (from Charm)
+- charm:gold_chain (from Charm)
+- charm:gold_lantern (from Charm)
+- techreborn:gold_plate (from Tech Reborn)
+- techreborn:gold_cable (from Tech Reborn)
+- techreborn:insulated_gold_cable (from Tech Reborn)
+- techreborn:electrum_ingot (from Tech Reborn)
+- techreborn:electrum_plate (from Tech Reborn)
+- techreborn:electrum_storage_block (from Tech Reborn)
+- artifacts:golden_hook (from Artifacts)
+- charm:gold_bars (from Charm)
+- charm:gold_chain (from Charm)
+- charm:gold_lantern (from Charm)
+- techreborn:gold_plate (from Tech Reborn)
+- techreborn:gold_cable (from Tech Reborn)
+- techreborn:insulated_gold_cable (from Tech Reborn)
+- techreborn:electrum_ingot (from Tech Reborn)
+- techreborn:electrum_plate (from Tech Reborn)
+- techreborn:electrum_storage_block (from Tech Reborn)
+
+#c:obsidian_plates
+- techreborn:obsidian_plate (from Tech Reborn)
+
+#c:stone
+- minecraft:stone (from Bookshelf)
+- minecraft:andesite (from Bookshelf)
+- minecraft:polished_andesite (from Bookshelf)
+- minecraft:diorite (from Bookshelf)
+- minecraft:polished_diorite (from Bookshelf)
+- minecraft:granite (from Bookshelf)
+- minecraft:polished_granite (from Bookshelf)
+- minecraft:deepslate (from Bookshelf)
+- minecraft:polished_deepslate (from Bookshelf)
+- minecraft:infested_deepslate (from Bookshelf)
+
+#c:ender_eye_dusts
+- techreborn:ender_eye_dust (from Tech Reborn)
+
+#c:iron_plates
+- techreborn:iron_plate (from Tech Reborn)
+
+#c:copper_ingots
+- minecraft:copper_ingot (from Fabric Convention Tags)
+
+#c:iridium_ingots
+- techreborn:iridium_ingot (from Tech Reborn)
+
+#c:basalt_dusts
+- techreborn:basalt_dust (from Tech Reborn)
+
+#c:red_garnet_dusts
+- techreborn:red_garnet_dust (from Tech Reborn)
+
+#c:platinum_blocks
+- techreborn:platinum_storage_block (from Tech Reborn)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#c:dark_ashes_small_dusts
+- techreborn:dark_ashes_small_dust (from Tech Reborn)
+
+#c:invar_dusts
+- techreborn:invar_dust (from Tech Reborn)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+- #charm:azalea_logs (from Charm)
+- #techreborn:rubber_logs (from Tech Reborn)
+- #charm:azalea_logs (from Charm)
+- #techreborn:rubber_logs (from Tech Reborn)
+
+#techreborn:raw_metals
+- techreborn:raw_iridium (from Tech Reborn)
+- techreborn:raw_lead (from Tech Reborn)
+- techreborn:raw_silver (from Tech Reborn)
+- techreborn:raw_tin (from Tech Reborn)
+- techreborn:raw_tungsten (from Tech Reborn)
+
+#c:small_corals_purple
+- minecraft:bubble_coral (from Tech Reborn)
+- minecraft:bubble_coral_fan (from Tech Reborn)
+
+#c:tungstensteel_ingots
+- techreborn:tungstensteel_ingot (from Tech Reborn)
+
+#c:bronze_ingots
+- techreborn:bronze_ingot (from Tech Reborn)
+
+#c:silver_nuggets
+- techreborn:silver_nugget (from Tech Reborn)
+
+#c:peridot_plates
+- techreborn:peridot_plate (from Tech Reborn)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+- charm:azalea_slab (from Charm)
+- techreborn:rubber_slab (from Tech Reborn)
+- charm:azalea_slab (from Charm)
+- techreborn:rubber_slab (from Tech Reborn)
+
+#c:wooden_chests
+- minecraft:chest (from Charm)
+- minecraft:trapped_chest (from Charm)
+- charm:acacia_chest (from Charm)
+- charm:azalea_chest (from Charm)
+- charm:birch_chest (from Charm)
+- charm:crimson_chest (from Charm)
+- charm:dark_oak_chest (from Charm)
+- charm:jungle_chest (from Charm)
+- charm:mangrove_chest (from Charm)
+- charm:oak_chest (from Charm)
+- charm:spruce_chest (from Charm)
+- charm:warped_chest (from Charm)
+- charm:acacia_trapped_chest (from Charm)
+- charm:azalea_trapped_chest (from Charm)
+- charm:birch_trapped_chest (from Charm)
+- charm:crimson_trapped_chest (from Charm)
+- charm:dark_oak_trapped_chest (from Charm)
+- charm:jungle_trapped_chest (from Charm)
+- charm:mangrove_trapped_chest (from Charm)
+- charm:oak_trapped_chest (from Charm)
+- charm:spruce_trapped_chest (from Charm)
+- charm:warped_trapped_chest (from Charm)
+
+#c:raw_tin_ores
+- techreborn:raw_tin (from Tech Reborn)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+
+#c:axes
+- #fabric:axes? (from Fabric Convention Tags)
+- minecraft:diamond_axe (from Fabric Convention Tags)
+- minecraft:golden_axe (from Fabric Convention Tags)
+- minecraft:wooden_axe (from Fabric Convention Tags)
+- minecraft:stone_axe (from Fabric Convention Tags)
+- minecraft:iron_axe (from Fabric Convention Tags)
+- minecraft:netherite_axe (from Fabric Convention Tags)
+
+#c:raw_iron_blocks
+- minecraft:raw_iron_block (from Fabric Convention Tags)
+
+#c:diamond_small_dusts
+- techreborn:diamond_small_dust (from Tech Reborn)
+
+#c:charcoal_small_dusts
+- techreborn:charcoal_small_dust (from Tech Reborn)
+
+#c:emerald_nuggets
+- techreborn:emerald_nugget (from Tech Reborn)
+
+#c:shovels
+- #fabric:shovels? (from Fabric Convention Tags)
+- minecraft:diamond_shovel (from Fabric Convention Tags)
+- minecraft:golden_shovel (from Fabric Convention Tags)
+- minecraft:wooden_shovel (from Fabric Convention Tags)
+- minecraft:stone_shovel (from Fabric Convention Tags)
+- minecraft:iron_shovel (from Fabric Convention Tags)
+- minecraft:netherite_shovel (from Fabric Convention Tags)
+
+#c:endstone_small_dusts
+- techreborn:endstone_small_dust (from Tech Reborn)
+
+#c:fence_gates
+- minecraft:acacia_fence_gate (from Bookshelf)
+- minecraft:birch_fence_gate (from Bookshelf)
+- minecraft:dark_oak_fence_gate (from Bookshelf)
+- minecraft:jungle_fence_gate (from Bookshelf)
+- minecraft:oak_fence_gate (from Bookshelf)
+- minecraft:spruce_fence_gate (from Bookshelf)
+- minecraft:crimson_fence_gate (from Bookshelf)
+- minecraft:warped_fence_gate (from Bookshelf)
+
+#c:chains
+- minecraft:chain (from Charm)
+- charm:gold_chain (from Charm)
+
+#c:bauxite_dusts
+- techreborn:bauxite_dust (from Tech Reborn)
+
+#c:steel_plates
+- techreborn:steel_plate (from Tech Reborn)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+- minecraft:tropical_fish_bucket (from Default)
+
+#c:carbon_plates
+- techreborn:carbon_plate (from Tech Reborn)
+
+#c:galena_small_dusts
+- techreborn:galena_small_dust (from Tech Reborn)
+
+#c:saw_small_dusts
+- techreborn:saw_small_dust (from Tech Reborn)
+
+#c:purple_dyes
+- minecraft:purple_dye (from Fabric Convention Tags)
+
+#c:raw_iridium_ores
+- techreborn:raw_iridium (from Tech Reborn)
+
+#c:glowstone_small_dusts
+- techreborn:glowstone_small_dust (from Tech Reborn)
+
+#c:nickel_dusts
+- techreborn:nickel_dust (from Tech Reborn)
+
+#c:sulfur_small_dusts
+- techreborn:sulfur_small_dust (from Tech Reborn)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#c:lanterns
+- minecraft:lantern (from Charm)
+- minecraft:soul_lantern (from Charm)
+- charm:gold_lantern (from Charm)
+- charm:gold_soul_lantern (from Charm)
+
+#c:ashes_dusts
+- techreborn:ashes_dust (from Tech Reborn)
+
+#c:andradite_dusts
+- techreborn:andradite_dust (from Tech Reborn)
+
+#c:andesite_small_dusts
+- techreborn:andesite_small_dust (from Tech Reborn)
+
+#c:lapis_plates
+- techreborn:lapis_plate (from Tech Reborn)
+
+#c:sapphires
+- techreborn:sapphire_gem (from Tech Reborn)
+
+#c:bronze_plates
+- techreborn:bronze_plate (from Tech Reborn)
+
+#c:flint_small_dusts
+- techreborn:flint_small_dust (from Tech Reborn)
+
+#c:gold_ingots
+- minecraft:gold_ingot (from Fabric Convention Tags)
+
+#c:raw_lead_ores
+- techreborn:raw_lead (from Tech Reborn)
+
+#c:steel_dusts
+- techreborn:steel_dust (from Tech Reborn)
+
+#c:tungsten_ores
+- techreborn:tungsten_ore (from Tech Reborn)
+- techreborn:deepslate_tungsten_ore (from Tech Reborn)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye (from Fabric Convention Tags)
+
+#c:iridium_reinforced_stone_blocks
+- techreborn:iridium_reinforced_stone_storage_block (from Tech Reborn)
+
+#charm:chests/normal
+- minecraft:chest (from Charm)
+- charm:acacia_chest (from Charm)
+- charm:azalea_chest (from Charm)
+- charm:birch_chest (from Charm)
+- charm:crimson_chest (from Charm)
+- charm:dark_oak_chest (from Charm)
+- charm:jungle_chest (from Charm)
+- charm:mangrove_chest (from Charm)
+- charm:oak_chest (from Charm)
+- charm:spruce_chest (from Charm)
+- charm:warped_chest (from Charm)
+
+#c:obsidian_small_dusts
+- techreborn:obsidian_small_dust (from Tech Reborn)
+
+#c:iridium_blocks
+- techreborn:iridium_storage_block (from Tech Reborn)
+
+#c:zinc_small_dusts
+- techreborn:zinc_small_dust (from Tech Reborn)
+
+#bookshelf:strings
+- #c:strings (from Bookshelf)
+- #c:string (from Bookshelf)
+
+#c:barrel
+- minecraft:barrel (from Charm)
+- charm:acacia_barrel (from Charm)
+- charm:azalea_barrel (from Charm)
+- charm:birch_barrel (from Charm)
+- charm:crimson_barrel (from Charm)
+- charm:dark_oak_barrel (from Charm)
+- charm:jungle_barrel (from Charm)
+- charm:mangrove_barrel (from Charm)
+- charm:oak_barrel (from Charm)
+- charm:spruce_barrel (from Charm)
+- charm:warped_barrel (from Charm)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#c:iridium_alloy_ingots
+- techreborn:iridium_alloy_ingot (from Tech Reborn)
+
+#c:raw_gold_ores
+- minecraft:raw_gold (from Fabric Convention Tags)
+
+#c:red_garnet_blocks
+- techreborn:red_garnet_storage_block (from Tech Reborn)
+
+#c:hot_tungstensteel_nuggets
+- techreborn:hot_tungstensteel_nugget (from Tech Reborn)
+
+#c:cinnabar_dusts
+- techreborn:cinnabar_dust (from Tech Reborn)
+
+#c:iridium_alloy_plates
+- techreborn:iridium_alloy_plate (from Tech Reborn)
+
+#c:tungsten_blocks
+- techreborn:tungsten_storage_block (from Tech Reborn)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#c:grass_variants
+- minecraft:grass (from Tech Reborn)
+- minecraft:tall_grass (from Tech Reborn)
+- minecraft:fern (from Tech Reborn)
+- minecraft:large_fern (from Tech Reborn)
+- minecraft:moss_carpet (from Tech Reborn)
+- minecraft:seagrass (from Tech Reborn)
+
+#c:raw_meat
+- minecraft:beef (from Tech Reborn)
+- minecraft:chicken (from Tech Reborn)
+- minecraft:cod (from Tech Reborn)
+- minecraft:mutton (from Tech Reborn)
+- minecraft:porkchop (from Tech Reborn)
+- minecraft:rabbit (from Tech Reborn)
+- minecraft:salmon (from Tech Reborn)
+
+#c:manganese_dusts
+- techreborn:manganese_dust (from Tech Reborn)
+
+#c:invar_blocks
+- techreborn:invar_storage_block (from Tech Reborn)
+
+#c:diamonds
+- minecraft:diamond (from Fabric Convention Tags)
+
+#c:gold_plates
+- techreborn:gold_plate (from Tech Reborn)
+
+#c:bookshelves
+- minecraft:bookshelf (from Charm)
+- charm:acacia_bookshelf (from Charm)
+- charm:azalea_bookshelf (from Charm)
+- charm:birch_bookshelf (from Charm)
+- charm:crimson_bookshelf (from Charm)
+- charm:dark_oak_bookshelf (from Charm)
+- charm:jungle_bookshelf (from Charm)
+- charm:mangrove_bookshelf (from Charm)
+- charm:oak_bookshelf (from Charm)
+- charm:spruce_bookshelf (from Charm)
+- charm:warped_bookshelf (from Charm)
+
+#c:saltpeter_small_dusts
+- techreborn:saltpeter_small_dust (from Tech Reborn)
+
+#c:electrum_plates
+- techreborn:electrum_plate (from Tech Reborn)
+
+#c:zinc_dusts
+- techreborn:zinc_dust (from Tech Reborn)
+
+#c:zinc_blocks
+- techreborn:zinc_storage_block (from Tech Reborn)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+
+#c:wood_plates
+- techreborn:wood_plate (from Tech Reborn)
+
+#c:sapphire_plates
+- techreborn:sapphire_plate (from Tech Reborn)
+
+#trinkets:head/hat
+- artifacts:night_vision_goggles (from Artifacts)
+- artifacts:novelty_drinking_hat (from Artifacts)
+- artifacts:plastic_drinking_hat (from Artifacts)
+- artifacts:snorkel (from Artifacts)
+- artifacts:superstitious_hat (from Artifacts)
+- artifacts:villager_hat (from Artifacts)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#darkutils:dark_stones
+- minecraft:deepslate (from DarkUtilities)
+- minecraft:cobbled_deepslate (from DarkUtilities)
+- minecraft:polished_deepslate (from DarkUtilities)
+- minecraft:deepslate_bricks (from DarkUtilities)
+- minecraft:cracked_deepslate_bricks (from DarkUtilities)
+- minecraft:deepslate_tiles (from DarkUtilities)
+- minecraft:cracked_deepslate_tiles (from DarkUtilities)
+- minecraft:chiseled_deepslate (from DarkUtilities)
+- minecraft:blackstone (from DarkUtilities)
+- minecraft:polished_blackstone (from DarkUtilities)
+- minecraft:chiseled_polished_blackstone (from DarkUtilities)
+- minecraft:polished_blackstone_bricks (from DarkUtilities)
+- minecraft:cracked_polished_blackstone_bricks (from DarkUtilities)
+- minecraft:basalt (from DarkUtilities)
+- minecraft:polished_basalt (from DarkUtilities)
+- minecraft:smooth_basalt (from DarkUtilities)
+
+#c:raw_tin_blocks
+- techreborn:raw_tin_storage_block (from Tech Reborn)
+
+#c:ruby_plates
+- techreborn:ruby_plate (from Tech Reborn)
+
+#c:netherite_nuggets
+- techreborn:netherite_nugget (from Tech Reborn)
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#c:almandine_dusts
+- techreborn:almandine_dust (from Tech Reborn)
+
+#c:bauxite_small_dusts
+- techreborn:bauxite_small_dust (from Tech Reborn)
+
+#c:hoes
+- #fabric:hoes? (from Fabric Convention Tags)
+- minecraft:diamond_hoe (from Fabric Convention Tags)
+- minecraft:golden_hoe (from Fabric Convention Tags)
+- minecraft:wooden_hoe (from Fabric Convention Tags)
+- minecraft:stone_hoe (from Fabric Convention Tags)
+- minecraft:iron_hoe (from Fabric Convention Tags)
+- minecraft:netherite_hoe (from Fabric Convention Tags)
+
+#c:red_dyes
+- minecraft:red_dye (from Fabric Convention Tags)
+
+#c:peridot_small_dusts
+- techreborn:peridot_small_dust (from Tech Reborn)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#c:galena_ores
+- techreborn:galena_ore (from Tech Reborn)
+- techreborn:deepslate_galena_ore (from Tech Reborn)
+
+#c:bows
+- minecraft:crossbow (from Fabric Convention Tags)
+- minecraft:bow (from Fabric Convention Tags)
+
+#fabric:swords
+- techreborn:bronze_sword (from Tech Reborn)
+- techreborn:ruby_sword (from Tech Reborn)
+- techreborn:sapphire_sword (from Tech Reborn)
+- techreborn:peridot_sword (from Tech Reborn)
+- techreborn:nanosaber (from Tech Reborn)
+- techreborn:basic_chainsaw (from Tech Reborn)
+- techreborn:advanced_chainsaw (from Tech Reborn)
+- techreborn:industrial_chainsaw (from Tech Reborn)
+- techreborn:omni_tool (from Tech Reborn)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+- charm:azalea_planks (from Charm)
+- techreborn:rubber_planks (from Tech Reborn)
+- charm:azalea_planks (from Charm)
+- techreborn:rubber_planks (from Tech Reborn)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#c:redstone_plates
+- techreborn:redstone_plate (from Tech Reborn)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#c:shulker_boxes
+- minecraft:shulker_box (from Fabric Convention Tags)
+- minecraft:blue_shulker_box (from Fabric Convention Tags)
+- minecraft:brown_shulker_box (from Fabric Convention Tags)
+- minecraft:cyan_shulker_box (from Fabric Convention Tags)
+- minecraft:gray_shulker_box (from Fabric Convention Tags)
+- minecraft:green_shulker_box (from Fabric Convention Tags)
+- minecraft:light_blue_shulker_box (from Fabric Convention Tags)
+- minecraft:light_gray_shulker_box (from Fabric Convention Tags)
+- minecraft:lime_shulker_box (from Fabric Convention Tags)
+- minecraft:magenta_shulker_box (from Fabric Convention Tags)
+- minecraft:orange_shulker_box (from Fabric Convention Tags)
+- minecraft:pink_shulker_box (from Fabric Convention Tags)
+- minecraft:purple_shulker_box (from Fabric Convention Tags)
+- minecraft:red_shulker_box (from Fabric Convention Tags)
+- minecraft:white_shulker_box (from Fabric Convention Tags)
+- minecraft:yellow_shulker_box (from Fabric Convention Tags)
+- minecraft:black_shulker_box (from Fabric Convention Tags)
+
+#c:emerald_dusts
+- techreborn:emerald_dust (from Tech Reborn)
+
+#c:glass_blocks
+- minecraft:glass (from Fabric Convention Tags)
+- minecraft:gray_stained_glass (from Fabric Convention Tags)
+- minecraft:black_stained_glass (from Fabric Convention Tags)
+- minecraft:orange_stained_glass (from Fabric Convention Tags)
+- minecraft:blue_stained_glass (from Fabric Convention Tags)
+- minecraft:brown_stained_glass (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass (from Fabric Convention Tags)
+- minecraft:green_stained_glass (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass (from Fabric Convention Tags)
+- minecraft:lime_stained_glass (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass (from Fabric Convention Tags)
+- minecraft:pink_stained_glass (from Fabric Convention Tags)
+- minecraft:purple_stained_glass (from Fabric Convention Tags)
+- minecraft:red_stained_glass (from Fabric Convention Tags)
+- minecraft:tinted_glass (from Fabric Convention Tags)
+- minecraft:white_stained_glass (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass (from Fabric Convention Tags)
+
+#c:cyan_dyes
+- minecraft:cyan_dye (from Fabric Convention Tags)
+
+#techreborn:calcite_small_dust_material
+- minecraft:bone_meal (from Tech Reborn)
+- #c:coral_fans (from Tech Reborn)
+- #c:coral_plants (from Tech Reborn)
+- minecraft:pointed_dripstone (from Tech Reborn)
+- minecraft:nautilus_shell (from Tech Reborn)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#c:electrum_nuggets
+- techreborn:electrum_nugget (from Tech Reborn)
+
+#c:ender_pearl_small_dusts
+- techreborn:ender_pearl_small_dust (from Tech Reborn)
+
+#c:iridium_reinforced_tungstensteel_blocks
+- techreborn:iridium_reinforced_tungstensteel_storage_block (from Tech Reborn)
+
+#c:brass_nuggets
+- techreborn:brass_nugget (from Tech Reborn)
+
+#c:electrum_ingots
+- techreborn:electrum_ingot (from Tech Reborn)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+- techreborn:quantum_helmet (from Tech Reborn)
+- techreborn:quantum_chestplate (from Tech Reborn)
+- techreborn:quantum_leggings (from Tech Reborn)
+- techreborn:quantum_boots (from Tech Reborn)
+- techreborn:quantum_helmet (from Tech Reborn)
+- techreborn:quantum_chestplate (from Tech Reborn)
+- techreborn:quantum_leggings (from Tech Reborn)
+- techreborn:quantum_boots (from Tech Reborn)
+
+#artifacts:artifacts
+- artifacts:umbrella (from Artifacts)
+- artifacts:everlasting_beef (from Artifacts)
+- artifacts:eternal_steak (from Artifacts)
+- artifacts:plastic_drinking_hat (from Artifacts)
+- artifacts:novelty_drinking_hat (from Artifacts)
+- artifacts:snorkel (from Artifacts)
+- artifacts:night_vision_goggles (from Artifacts)
+- artifacts:villager_hat (from Artifacts)
+- artifacts:superstitious_hat (from Artifacts)
+- artifacts:lucky_scarf (from Artifacts)
+- artifacts:scarf_of_invisibility (from Artifacts)
+- artifacts:cross_necklace (from Artifacts)
+- artifacts:panic_necklace (from Artifacts)
+- artifacts:shock_pendant (from Artifacts)
+- artifacts:flame_pendant (from Artifacts)
+- artifacts:thorn_pendant (from Artifacts)
+- artifacts:charm_of_sinking (from Artifacts)
+- artifacts:cloud_in_a_bottle (from Artifacts)
+- artifacts:obsidian_skull (from Artifacts)
+- artifacts:antidote_vessel (from Artifacts)
+- artifacts:universal_attractor (from Artifacts)
+- artifacts:crystal_heart (from Artifacts)
+- artifacts:helium_flamingo (from Artifacts)
+- artifacts:digging_claws (from Artifacts)
+- artifacts:feral_claws (from Artifacts)
+- artifacts:power_glove (from Artifacts)
+- artifacts:fire_gauntlet (from Artifacts)
+- artifacts:pocket_piston (from Artifacts)
+- artifacts:vampiric_glove (from Artifacts)
+- artifacts:golden_hook (from Artifacts)
+- artifacts:aqua_dashers (from Artifacts)
+- artifacts:bunny_hoppers (from Artifacts)
+- artifacts:kitty_slippers (from Artifacts)
+- artifacts:running_shoes (from Artifacts)
+- artifacts:steadfast_spikes (from Artifacts)
+- artifacts:flippers (from Artifacts)
+- artifacts:whoopee_cushion (from Artifacts)
+
+#c:sodalite_small_dusts
+- techreborn:sodalite_small_dust (from Tech Reborn)
+
+#c:peridot_dusts
+- techreborn:peridot_dust (from Tech Reborn)
+
+#c:froglights
+- minecraft:ochre_froglight (from Tech Reborn)
+- minecraft:pearlescent_froglight (from Tech Reborn)
+- minecraft:verdant_froglight (from Tech Reborn)
+
+#c:copper_nuggets
+- techreborn:copper_nugget (from Tech Reborn)
+
+#c:spessartine_dusts
+- techreborn:spessartine_dust (from Tech Reborn)
