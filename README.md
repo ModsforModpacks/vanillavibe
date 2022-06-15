@@ -11,6 +11,7 @@
 <tr>
 <td style="width: 50%;"><a title="Vanillavibe 1.16.x" href="https://github.com/ModsforModpacks/Vanillavibe/tree/main/1.16.X" target="_blank"><img src="https://i.imgur.com/xBywco8.png" alt="" width="200" height="115" /></a></td>
 <td style="width: 50%;"><a title="Vanillavibe 1.18.x" href="https://github.com/ModsforModpacks/Vanillavibe/tree/main/1.18.X" target="_blank"><img src="https://i.imgur.com/0T0EYA8.png" alt="" width="200" height="115" /></a></td>
+<td style="width: 50%;"><a title="Vanillavibe 1.19.x" href="https://github.com/ModsforModpacks/Vanillavibe/tree/main/1.19.X" target="_blank"><img src="https://i.imgur.com/dKt4bmp.png" alt="" width="200" height="115" /></a></td>
 </tr>
 </tbody>
 </table>
