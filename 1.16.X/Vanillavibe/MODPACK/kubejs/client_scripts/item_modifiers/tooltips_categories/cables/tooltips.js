@@ -54,7 +54,7 @@ onEvent('item.tooltip', tooltip => {
   });
 
   tooltip.addAdvanced('techreborn:superconductor_cable', (item, advanced, text) => {
-    text.add(1, Text.of('Transfer rate: Max').color('#FFAA00'))
+    text.add(1, Text.of('Transfer rate: 8192').color('#FFAA00'))
     text.add(2, Text.of('Tier: Infinite').color('#FFAA00'))
   });
 
