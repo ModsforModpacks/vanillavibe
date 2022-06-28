@@ -5,7 +5,9 @@
 
 [![](https://img.shields.io/badge/mod%20loader-fabric-d64541?style=flat-round)](https://fabricmc.net/)
 [![](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/szumaster/Vanillavibe/blob/main/LICENSE.md)
-  
+
+Select the version by clicking on the rectangle below
+
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
