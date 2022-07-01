@@ -1,5 +1,4 @@
 <div align="center">
-<h2 style="text-align: center;"><strong>Modlist Vanillavibe 1.18.2</strong></h2>
 <table style="border-collapse: collapse; width: 90.7587%; height: 5403px;" border="1">
 <tbody>
 <tr>
